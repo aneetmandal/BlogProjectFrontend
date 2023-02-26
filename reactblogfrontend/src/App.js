@@ -1,10 +1,10 @@
-import Heading from "./components/heading";
+import Home from "./components/home";
 
 
 function App() {
   return (
     <>
-    <Heading />
+    <Home />
     </>
   );
 }
