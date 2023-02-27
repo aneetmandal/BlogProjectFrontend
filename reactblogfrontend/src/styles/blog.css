@@ -70,6 +70,19 @@ opacity: 1;
 position: relative;
 }
 
+#SubTitleFont{
+    top: 499px;
+    right: 21vw;
+    width: 200px;
+    height: 150px;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #FCFCFC;
+    opacity: 0.57;
+    position: relative;
+}
+
 .Img2{
 top: 300px;
 left: 1213px;
@@ -80,6 +93,33 @@ box-shadow: 0px 5px 10px #0000000D;
 border-radius: 7px;
 opacity: 1;
 position: absolute;
+}
+
+#Img2Font{
+top: 120px;
+left: 15px;
+width: 291px;
+height: 39px;
+text-align: left;
+font-size: 25px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: relative;
+}
+
+#Img2SubFont{
+top: 200px;
+right: 240px;
+width: 50px;
+height: 20px;
+font-size: 15px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #FCFCFC;
+opacity: 0.57;
+position: relative;
 }
 
 .Img3{
@@ -93,3 +133,267 @@ border-radius: 7px;
 opacity: 1;
 position: absolute;
 }
+
+#Img3Font{
+top: 120px;
+left: 15px;
+width: 291px;
+height: 39px;
+text-align: left;
+font-size: 25px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: relative;
+}
+
+#Img3SubFont{
+top: 200px;
+right: 240px;
+width: 50px;
+height: 20px;
+font-size: 15px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #FCFCFC;
+opacity: 0.57;
+position: relative;
+}
+
+.Latest{
+top: 1000px;
+left: 242px;
+width: 211px;
+height: 49px;
+text-align: left;
+font-size: 40px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.Latest-line{
+top: 1060px;
+left: 242px;
+width: 90px;
+height: 3px;
+background: #F08080 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.Temple-1{
+top: 1175px;
+left: 242px;
+width: 452px;
+height: 229px;
+background: transparent url('../pictures/TempleView.jpg') 0% 0% no-repeat padding-box;
+box-shadow: 0px 5px 10px #0000000D;
+border-radius: 7px 7px 0px 0px;
+opacity: 1;
+position: relative;
+}
+
+.Temple-1-Text{
+top: 1231px;
+left: 286px;
+width: 363px;
+height: 95px;
+text-align: left;
+font-size: 30px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #404040;
+opacity: 1;
+position: relative;
+}
+
+.Temple-2-Text{
+top: 1237px;
+left: 289px;
+width: 358px;
+height: 115px;
+text-align: left;
+font: normal normal normal 17px/23px 'Open Sans';
+letter-spacing: 0px;
+color: #908D8D;
+opacity: 1;
+position: relative;
+}
+
+.Temple-Footer{
+top: 1257px;
+left: 285px;
+width: 51px;
+height: 20px;
+text-align: left;
+font-size: 20px;
+font-family:'Montserrat';
+letter-spacing: 0px;
+color: #404040;
+opacity: 1;
+position: relative;
+}
+
+.Temple-Footer-2{
+top: 1242px;
+left: 355px;
+width: 158px;
+height: 15px;
+text-align: left;
+font-size: 15px;
+font-family: 'Montserrat';
+letter-spacing: 0.85px;
+color: #404040;
+opacity: 0.48;
+position: relative;
+}
+
+.Temple-2{
+    top: 702px;
+    left: 742px;
+    width: 452px;
+    height: 229px;
+    background: transparent url('../pictures/TempleView.jpg') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 10px #0000000D;
+    border-radius: 7px 7px 0px 0px;
+    opacity: 1;
+    position: relative;
+    }
+
+.Temple2-2-Text{
+        top: 758px;
+        left: 786px;
+        width: 363px;
+        height: 95px;
+        text-align: left;
+        font-size: 30px;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #404040;
+        opacity: 1;
+        position: relative;
+    }
+
+.Temple-22-Text{
+top: 763px;
+left: 786px;
+width: 358px;
+height: 115px;
+text-align: left;
+font: normal normal normal 17px/23px 'Open Sans';
+letter-spacing: 0px;
+color: #908D8D;
+opacity: 1;
+position: relative;
+}
+
+.Temple2-Footer{
+    top: 783px;
+    left: 786px;
+    width: 51px;
+    height: 20px;
+    text-align: left;
+    font-size: 20px;
+    font-family:'Montserrat';
+    letter-spacing: 0px;
+    color: #404040;
+    opacity: 1;
+    position: relative;
+    }
+    
+    .Temple2-Footer-2{
+    top: 768px;
+    left: 856px;
+    width: 158px;
+    height: 15px;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    letter-spacing: 0.85px;
+    color: #404040;
+    opacity: 0.48;
+    position: relative;
+    }
+    
+    .LatestCard-3{
+        top: 1174px;
+        left: 1226px;
+        width: 452px;
+        height: 538px;
+        background: #FCFCFC 0% 0% no-repeat padding-box;
+        box-shadow: 0px 5px 35px #00000008;
+        border-radius: 7px;
+        opacity: 1; 
+        position: absolute;
+    }
+
+    .Temple-3{
+        top: 10px;
+        left: 25px;
+        width: 452px;
+        height: 229px;
+        background: transparent url('../pictures/TempleView.jpg') 0% 0% no-repeat padding-box;
+        box-shadow: 0px 5px 10px #0000000D;
+        border-radius: 7px 7px 0px 0px;
+        opacity: 1;
+        position: relative;
+        }
+
+        .Temple3-Text{
+            top: 65px;
+            left: 70px;
+            width: 363px;
+            height: 95px;
+            text-align: left;
+            font-size: 30px;
+            font-family: 'Montserrat';
+            letter-spacing: 0px;
+            color: #404040;
+            opacity: 1;
+            position: relative;
+        }
+    
+    .Temple-33-Text{
+    top: 70px;
+    left: 70px;
+    width: 358px;
+    height: 115px;
+    text-align: left;
+    font: normal normal normal 17px/23px 'Open Sans';
+    letter-spacing: 0px;
+    color: #908D8D;
+    opacity: 1;
+    position: relative;
+    }
+
+    .Temple3-Footer{
+        top: 90px;
+        left: 70px;
+        width: 51px;
+        height: 20px;
+        text-align: left;
+        font-size: 20px;
+        font-family:'Montserrat';
+        letter-spacing: 0px;
+        color: #404040;
+        opacity: 1;
+        position: relative;
+        }
+        
+        .Temple3-Footer-3{
+        top: 72px;
+        left: 140px;
+        width: 158px;
+        height: 15px;
+        text-align: left;
+        font-size: 15px;
+        font-family: 'Montserrat';
+        letter-spacing: 0.85px;
+        color: #404040;
+        opacity: 0.48;
+        position: relative;
+        }
