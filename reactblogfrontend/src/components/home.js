@@ -65,6 +65,40 @@ return(
         <div class="Temple3-Footer-3">/ February 27 2023</div> 
     </div>
 
+    <div class="Latest-Article">Latest Articles</div>
+    <div class="Latest-Article-Line"></div>
+    <div class="Latest-Article-HR-Line"></div>
+
+    <div class="LA-P1"></div>
+    <div class="LA-P1-Head">Catch waves with an adventure guide</div>
+    <div class="LA-P1-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P1-Foot">Travel</div>
+    <div class="LA-P1-Foot-2">/ February 27 2023</div> 
+    <div class="LA-P1-HR-Line"></div>
+
+    <div class="LA-P2"></div>
+    <div class="LA-P2-Head">Catch waves with an adventure guide</div>
+    <div class="LA-P2-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P2-Foot">Travel</div>
+    <div class="LA-P2-Foot-2">/ February 27 2023</div> 
+    <div class="LA-P2-HR-Line"></div>
+
+    <div class="LA-P3"></div>
+    <div class="LA-P3-Head">Catch waves with an adventure guide</div>
+    <div class="LA-P3-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P3-Foot">Travel</div>
+    <div class="LA-P3-Foot-2">/ February 27 2023</div> 
+    <div class="LA-P3-HR-Line"></div>
+
+    <div class="LA-P4"></div>
+    <div class="LA-P4-Head">Catch waves with an adventure guide</div>
+    <div class="LA-P4-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P4-Foot">Travel</div>
+    <div class="LA-P4-Foot-2">/ February 27 2023</div> 
+
+    <div class="LoadArrow"></div>
+    <div class="LoadText">Load More</div>
+
     </div>
     </>
 );

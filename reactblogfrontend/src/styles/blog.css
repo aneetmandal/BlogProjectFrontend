@@ -397,3 +397,354 @@ position: relative;
         opacity: 0.48;
         position: relative;
         }
+
+    .Latest-Article{
+            top: 2000px;
+            left: 242px;
+            width: 350px;
+            height: 49px;
+            text-align: left;
+            font-size: 40px;
+            font-family: 'Montserrat';
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;
+            }
+            
+    .Latest-Article-Line{
+            top: 2060px;
+            left: 242px;
+            width: 90px;
+            height: 3px;
+            background: #F08080 0% 0% no-repeat padding-box;
+            opacity: 1;
+            position: absolute;
+            }
+
+    .Latest-Article-HR-Line{
+top: 2150px;
+left: 242px;
+width: 946px;
+height: 3px;
+background: #F0F0F0 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+    }
+
+    .LA-P1{
+top: 2200px;
+left: 270px;
+width: 308px;
+height: 206px;
+background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+box-shadow: 0px 5px 10px #0000000D;
+position: absolute;
+    }
+
+    .LA-P1-Head{
+top: 2190px;
+left: 612px;
+width: 399px;
+height: 94px;
+text-align: left;
+font-size: 40px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+    }
+
+    .LA-P1-Text{
+top: 2300px;
+left: 623px;
+width: 358px;
+height: 50px;
+text-align: left;
+font: normal normal normal 17px/23px 'Open Sans';
+letter-spacing: 0px;
+color: #908D8D;
+opacity: 1;
+position: absolute;
+    }
+
+    .LA-P1-Foot{
+        top: 2390px;
+        left: 623px;
+        width: 51px;
+        height: 20px;
+        text-align: left;
+        font-size: 15px;
+        font-family:'Montserrat';
+        letter-spacing: 0px;
+        color: #404040;
+        opacity: 1;
+        position: absolute;
+        }
+        
+        .LA-P1-Foot-2{
+        top: 2390px;
+        left: 680px;
+        width: 158px;
+        height: 20px;
+        text-align: left;
+        font-size: 15px;
+        font-family: 'Montserrat';
+        letter-spacing: 0.85px;
+        color: #404040;
+        opacity: 0.48;
+        position: absolute;
+        }
+
+        .LA-P1-HR-Line{
+top: 2450px;
+left: 242px;
+width: 946px;
+height: 3px;
+background: #F0F0F0 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+        }
+
+
+        .LA-P2{
+            top: 2500px;
+            left: 270px;
+            width: 308px;
+            height: 184px;
+            background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+            box-shadow: 0px 5px 10px #0000000D;
+            position: absolute;
+                }
+            
+        .LA-P2-Head{
+            top: 2495px;
+            left: 612px;
+            width: 399px;
+            height: 94px;
+            text-align: left;
+            font-size: 30px;
+            font-family: 'Montserrat';
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;
+                }
+            
+                .LA-P2-Text{
+            top: 2580px;
+            left: 623px;
+            width: 358px;
+            height: 50px;
+            text-align: left;
+            font: normal normal normal 17px/23px 'Open Sans';
+            letter-spacing: 0px;
+            color: #908D8D;
+            opacity: 1;
+            position: absolute;
+                }
+            
+                .LA-P2-Foot{
+                    top: 2670px;
+                    left: 623px;
+                    width: 51px;
+                    height: 20px;
+                    text-align: left;
+                    font-size: 15px;
+                    font-family:'Montserrat';
+                    letter-spacing: 0px;
+                    color: #404040;
+                    opacity: 1;
+                    position: absolute;
+                    }
+                    
+                .LA-P2-Foot-2{
+                    top: 2670px;
+                    left: 680px;
+                    width: 158px;
+                    height: 20px;
+                    text-align: left;
+                    font-size: 15px;
+                    font-family: 'Montserrat';
+                    letter-spacing: 0.85px;
+                    color: #404040;
+                    opacity: 0.48;
+                    position: absolute;
+                    }
+            
+                .LA-P2-HR-Line{
+            top: 2730px;
+            left: 242px;
+            width: 946px;
+            height: 3px;
+            background: #F0F0F0 0% 0% no-repeat padding-box;
+            opacity: 1;
+            position: absolute;
+                    }
+
+                    .LA-P3{
+                        top: 2780px;
+                        left: 270px;
+                        width: 308px;
+                        height: 184px;
+                        background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+                        box-shadow: 0px 5px 10px #0000000D;
+                        position: absolute;
+                            }
+                        
+                    .LA-P3-Head{
+                        top: 2775px;
+                        left: 612px;
+                        width: 399px;
+                        height: 94px;
+                        text-align: left;
+                        font-size: 30px;
+                        font-family: 'Montserrat';
+                        letter-spacing: 0px;
+                        color: #000000;
+                        opacity: 1;
+                        position: absolute;
+                            }
+                        
+                            .LA-P3-Text{
+                        top: 2860px;
+                        left: 623px;
+                        width: 358px;
+                        height: 50px;
+                        text-align: left;
+                        font: normal normal normal 17px/23px 'Open Sans';
+                        letter-spacing: 0px;
+                        color: #908D8D;
+                        opacity: 1;
+                        position: absolute;
+                            }
+                        
+                            .LA-P3-Foot{
+                                top: 2950px;
+                                left: 623px;
+                                width: 51px;
+                                height: 20px;
+                                text-align: left;
+                                font-size: 15px;
+                                font-family:'Montserrat';
+                                letter-spacing: 0px;
+                                color: #404040;
+                                opacity: 1;
+                                position: absolute;
+                                }
+                                
+                            .LA-P3-Foot-2{
+                                top: 2950px;
+                                left: 680px;
+                                width: 158px;
+                                height: 20px;
+                                text-align: left;
+                                font-size: 15px;
+                                font-family: 'Montserrat';
+                                letter-spacing: 0.85px;
+                                color: #404040;
+                                opacity: 0.48;
+                                position: absolute;
+                                }
+                        
+                            .LA-P3-HR-Line{
+                        top: 3010px;
+                        left: 242px;
+                        width: 946px;
+                        height: 3px;
+                        background: #F0F0F0 0% 0% no-repeat padding-box;
+                        opacity: 1;
+                        position: absolute;
+                                }
+
+                                .LA-P4{
+                                    top: 3060px;
+                                    left: 270px;
+                                    width: 308px;
+                                    height: 184px;
+                                    background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+                                    box-shadow: 0px 5px 10px #0000000D;
+                                    position: absolute;
+                                        }
+                                    
+                                .LA-P4-Head{
+                                    top: 3055px;
+                                    left: 612px;
+                                    width: 399px;
+                                    height: 94px;
+                                    text-align: left;
+                                    font-size: 30px;
+                                    font-family: 'Montserrat';
+                                    letter-spacing: 0px;
+                                    color: #000000;
+                                    opacity: 1;
+                                    position: absolute;
+                                        }
+                                    
+                                        .LA-P4-Text{
+                                    top: 3140px;
+                                    left: 623px;
+                                    width: 358px;
+                                    height: 50px;
+                                    text-align: left;
+                                    font: normal normal normal 17px/23px 'Open Sans';
+                                    letter-spacing: 0px;
+                                    color: #908D8D;
+                                    opacity: 1;
+                                    position: absolute;
+                                        }
+                                    
+                                        .LA-P4-Foot{
+                                            top: 3230px;
+                                            left: 623px;
+                                            width: 51px;
+                                            height: 20px;
+                                            text-align: left;
+                                            font-size: 15px;
+                                            font-family:'Montserrat';
+                                            letter-spacing: 0px;
+                                            color: #404040;
+                                            opacity: 1;
+                                            position: absolute;
+                                            }
+                                            
+                                        .LA-P4-Foot-2{
+                                            top: 3230px;
+                                            left: 680px;
+                                            width: 158px;
+                                            height: 20px;
+                                            text-align: left;
+                                            font-size: 15px;
+                                            font-family: 'Montserrat';
+                                            letter-spacing: 0.85px;
+                                            color: #404040;
+                                            opacity: 0.48;
+                                            position: absolute;
+                                            }
+                                    
+.LoadArrow{
+top: 3330px;
+left: 284px;
+width: 11px;
+height: 19px;
+/* transform: matrix(0, -1, -1, 0, 0, 0); */
+background: transparent url('../pictures/arrow.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.LoadText{
+    top: 3330px;
+    left: 308px;
+    width: 98px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 17px/23px 'Montserrat';
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;  
+    position: absolute;
+}
+                                            
+                                
