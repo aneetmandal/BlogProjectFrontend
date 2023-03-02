@@ -6,6 +6,12 @@ return(
     <div class="blog-structure">
     <h1 class="head1">The</h1>
     <div class="head2">Siren</div>
+    <div class="Home"><b>Home</b></div>
+    <div class="Bollywood"><b>Bollywood</b></div>
+    <div class="Tech"><b>Technology</b></div>
+    <div class="Hollywood"><b>Hollywood</b></div>
+    <div class="Fitness"><b>Fitness</b></div>
+    <div class="Food"><b>Food</b></div>
     <div class="hr-line"></div>
     <div class="Img1">
         <span id="TitleFont">
@@ -140,6 +146,36 @@ return(
         Travel / February 27 2023
         </span>
     </div>
+
+    <div class="Latest-Stories">Latest Stories</div>
+    <div class="Latest-Stories-Line"></div>
+    <div class="Latest-Stories-HRLine"></div>
+
+    <div class="LS-H1">Catch waves with an adventure guide</div>
+    <div class="LS-T1">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-known as a tourist destination.
+     It has a plethora of temples and palaces Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-known as a tourist destination. It has a plethora of temples and palaces</div>
+    <div class="LS-F1-1">TECH</div>
+    <div class="LS-F1-2">/ TODAY AT 11:54</div>
+    <div class="LS-HR-1"></div>
+
+    <div class="LS-H2">Catch waves with an adventure guide</div>
+    <div class="LS-T2">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-known as a tourist destination.
+     It has a plethora of temples and palaces Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-known as a tourist destination. It has a plethora of temples and palaces</div>
+    <div class="LS-F2-1">STYLE</div>
+    <div class="LS-F2-2">/ MARCH 02 2023</div>
+    <div class="LS-HR-2"></div>
+
+    <div class="LS-H3">Catch waves with an adventure guide</div>
+    <div class="LS-T3">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-known as a tourist destination.
+     It has a plethora of temples and palaces Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-known as a tourist destination. It has a plethora of temples and palaces</div>
+    <div class="LS-F3-1">TECH</div>
+    <div class="LS-F3-2">/ MARCH 02 2023</div>
+    <div class="LS-HR-3"></div>
+
+    <div class="Latest-Stories-HRLine-2"></div>
+
+    <div class="ViewArrow"></div>
+    <div class="ViewText">VIEW MORE</div>
 
     </div>
     </>

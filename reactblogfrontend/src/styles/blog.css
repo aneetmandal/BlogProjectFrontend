@@ -2,7 +2,7 @@
 top: 0px;
 left: 0px;
 width: 1920px;
-height: 4773px;
+height: 5073px;
 background: #FFFFFF 0% 0% no-repeat padding-box;
 opacity: 1;
 }
@@ -33,6 +33,90 @@ letter-spacing: 0px;
 color: #000000;
 opacity: 1;
 position: absolute;
+}
+
+.Home{
+    top: 189px;
+    left: 404px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+}
+
+.Bollywood{
+    top: 189px;
+    left: 604px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+}
+
+.Tech{
+    top: 189px;
+    left: 804px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;    
+}
+
+.Hollywood{
+    top: 189px;
+    left: 1004px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;    
+}
+
+.Fitness{
+    top: 189px;
+    left: 1204px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;    
+}
+
+.Food{
+    top: 189px;
+    left: 1404px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;    
 }
 
 .hr-line{
@@ -1104,7 +1188,7 @@ position: absolute;
 
 .TP-Max{
     top: 3500px;
-    left: 239px;
+    left: 242px;
     width: 900px;
     height: 557px;
     background: transparent url('../pictures/Palace.jpg') 0% 0% no-repeat padding-box;
@@ -1139,3 +1223,258 @@ position: absolute;
     opacity: 0.57;
     position: relative;
 }
+
+.Latest-Stories{
+    top: 4150px;
+    left: 242px;
+    width: 350px;
+    height: 49px;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    }
+    
+.Latest-Stories-Line{
+    top: 4215px;
+    left: 242px;
+    width: 90px;
+    height: 3px;
+    background: #F08080 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    }
+
+    .Latest-Stories-HRLine{
+    top: 4300px;
+    left: 236px;
+    width: 1440px;
+    height: 3px;    
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position:absolute;
+    }
+
+    .LS-H1{
+top: 4350px;
+left: 270px;
+width: 399px;
+height: 94px;
+text-align: left;
+font-size: 40px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+    }
+
+    .LS-T1{
+top: 4480px;
+left: 270px;
+width: 439px;
+height: 50px;
+text-align: left;
+font: normal normal normal 17px/23px 'Open Sans';
+letter-spacing: 0px;
+color: #908D8D;
+opacity: 1;
+position: absolute;
+    }
+
+    .LS-F1-1{
+top: 4700px;
+left: 270px;
+width: 47px;
+height: 20px;
+text-align: left;
+font-size: 17px;
+font-family:  'Montserrat';
+letter-spacing: 0px;
+color: #404040;
+opacity: 1;
+position: absolute;
+    }
+
+    .LS-F1-2{
+        top: 4700px;
+        left: 330px;
+        width: 158px;
+        height: 15px;
+        text-align: left;
+        font-size: 17px;
+        font-family: 'Montserrat';
+        letter-spacing: 0.85px;
+        color: #404040;
+        opacity: 0.4;  
+        position: absolute;
+    }
+
+    .LS-HR-1{
+top: 4355px;
+left: 730px;
+width: 3px;
+height: 400px;
+/* transform: matrix(0, 1, -1, 0, 0, 0); */
+background: #F0F0F0 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+    }
+
+    .LS-H2{
+        top: 4350px;
+        left: 800px;
+        width: 399px;
+        height: 94px;
+        text-align: left;
+        font-size: 40px;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: absolute;
+            }
+        
+            .LS-T2{
+        top: 4480px;
+        left: 800px;
+        width: 439px;
+        height: 50px;
+        text-align: left;
+        font: normal normal normal 17px/23px 'Open Sans';
+        letter-spacing: 0px;
+        color: #908D8D;
+        opacity: 1;
+        position: absolute;
+            }
+        
+            .LS-F2-1{
+        top: 4700px;
+        left: 800px;
+        width: 47px;
+        height: 20px;
+        text-align: left;
+        font-size: 17px;
+        font-family:  'Montserrat';
+        letter-spacing: 0px;
+        color: #404040;
+        opacity: 1;
+        position: absolute;
+            }
+        
+            .LS-F2-2{
+                top: 4700px;
+                left: 865px;
+                width: 165px;
+                height: 15px;
+                text-align: left;
+                font-size: 17px;
+                font-family: 'Montserrat';
+                letter-spacing: 0.85px;
+                color: #404040;
+                opacity: 0.4;  
+                position: absolute;
+            }
+        
+            .LS-HR-2{
+        top: 4355px;
+        left: 1260px;
+        width: 3px;
+        height: 400px;
+        /* transform: matrix(0, 1, -1, 0, 0, 0); */
+        background: #F0F0F0 0% 0% no-repeat padding-box;
+        opacity: 1;
+        position: absolute;
+            }
+
+            .LS-H3{
+                top: 4350px;
+                left: 1330px;
+                width: 399px;
+                height: 94px;
+                text-align: left;
+                font-size: 40px;
+                font-family: 'Montserrat';
+                letter-spacing: 0px;
+                color: #000000;
+                opacity: 1;
+                position: absolute;
+                    }
+                
+                    .LS-T3{
+                top: 4480px;
+                left: 1330px;
+                width: 439px;
+                height: 50px;
+                text-align: left;
+                font: normal normal normal 17px/23px 'Open Sans';
+                letter-spacing: 0px;
+                color: #908D8D;
+                opacity: 1;
+                position: absolute;
+                    }
+                
+                    .LS-F3-1{
+                top: 4700px;
+                left: 1330px;
+                width: 47px;
+                height: 20px;
+                text-align: left;
+                font-size: 17px;
+                font-family:  'Montserrat';
+                letter-spacing: 0px;
+                color: #404040;
+                opacity: 1;
+                position: absolute;
+                    }
+                
+                    .LS-F3-2{
+                        top: 4700px;
+                        left: 1390px;
+                        width: 165px;
+                        height: 15px;
+                        text-align: left;
+                        font-size: 17px;
+                        font-family: 'Montserrat';
+                        letter-spacing: 0.85px;
+                        color: #404040;
+                        opacity: 0.4;  
+                        position: absolute;
+                    }
+                
+ .Latest-Stories-HRLine-2{
+    top: 4850px;
+    left: 236px;
+    width: 1440px;
+    height: 3px;    
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position:absolute;   
+ }                   
+
+ .ViewArrow{
+    top: 4900px;
+    left: 390px;
+    width: 11px;
+    height: 19px;
+    transform: matrix(0, -1, 1, 0, 0, 0);
+    background: transparent url('../pictures/arrow.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+ }
+
+ .ViewText{
+    top: 4900px;
+    left: 270px;
+    width: 110px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 17px/23px 'Montserrat';
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;  
+    position: absolute;
+ }
