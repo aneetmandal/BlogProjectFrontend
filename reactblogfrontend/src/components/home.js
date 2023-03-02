@@ -99,6 +99,48 @@ return(
     <div class="LoadArrow"></div>
     <div class="LoadText">Load More</div>
 
+    <div class="Adv-Border"></div>
+    <div class="Adv">Advertisement</div>
+
+    <div class="Top-Posts">Top Posts</div>
+    <div class="Top-Posts-Line"></div>
+
+    <div class="TP-Pic-1"></div>
+    <div class="TP-P1-Head">Catch waves with an adventure guide</div>
+    <div class="TP-P1-Foot">Travel</div>
+    <div class="TP-P1-Foot-2">/ February 27 2023</div>
+    <div class="TP-P1-1">1</div>
+    <div class="TP-P1-HRLine"></div>
+
+    <div class="TP-Pic-2"></div>
+    <div class="TP-P2-Head">Catch waves with an<br /> adventure guide</div>
+    <div class="TP-P2-Foot">Travel</div>
+    <div class="TP-P2-Foot-2">/ February 27 2023</div>
+    <div class="TP-P2-2">2</div>
+    <div class="TP-P2-HRLine"></div>
+
+    <div class="TP-Pic-3"></div>
+    <div class="TP-P3-Head">Catch waves with an<br /> adventure guide</div>
+    <div class="TP-P3-Foot">Travel</div>
+    <div class="TP-P3-Foot-2">/ February 27 2023</div>
+    <div class="TP-P3-3">3</div>
+    <div class="TP-P3-HRLine"></div>
+
+    <div class="TP-Pic-4"></div>
+    <div class="TP-P4-Head">Catch waves with an<br /> adventure guide</div>
+    <div class="TP-P4-Foot">Travel</div>
+    <div class="TP-P4-Foot-2">/ February 27 2023</div>
+    <div class="TP-P4-4">4</div>
+
+    <div class="TP-Max">
+        <span id="TPFont">
+            Title of vertical gallery
+        </span>
+        <span id="TPSubFont">
+        Travel / February 27 2023
+        </span>
+    </div>
+
     </div>
     </>
 );

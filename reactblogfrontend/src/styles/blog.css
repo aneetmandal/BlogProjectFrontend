@@ -747,4 +747,395 @@ position: absolute;
     position: absolute;
 }
                                             
+.Adv-Border{
+top: 2150px;
+left: 1250px;
+width: 452px;
+height: 819px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+position: absolute;
+}              
+
+.Adv{
+top: 2518px;
+left: 1320px;
+width: 318px;
+height: 49px;
+text-align: left;
+font-size: 40px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.Top-Posts{
+    top: 3050px;
+    left: 1250px;
+    width: 350px;
+    height: 49px;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    }
+    
+.Top-Posts-Line{
+    top: 3110px;
+    left: 1250px;
+    width: 90px;
+    height: 3px;
+    background: #F08080 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    }
+
+    .TP-Pic-1{
+    top: 3140px;
+    left: 1250px;
+    width: 452px;
+    height: 266px;
+    background: transparent url('../pictures/TempleView.jpg') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 10px #0000000D;
+    border-radius: 3px;
+    opacity: 1;
+    position: absolute;
+    }
+
+    .TP-P1-Head{
+        top: 3450px;
+        left: 1250px;
+        width: 399px;
+        height: 94px;
+        text-align: left;
+        font-size: 30px;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: absolute;
+            }
+        
+        
+            .TP-P1-Foot{
+                top: 3550px;
+                left: 1250px;
+                width: 51px;
+                height: 20px;
+                text-align: left;
+                font-size: 15px;
+                font-family:'Montserrat';
+                letter-spacing: 0px;
+                color: #404040;
+                opacity: 1;
+                position: absolute;
+                }
+                
+            .TP-P1-Foot-2{
+                top: 3550px;
+                left: 1300px;
+                width: 158px;
+                height: 20px;
+                text-align: left;
+                font-size: 15px;
+                font-family: 'Montserrat';
+                letter-spacing: 0.85px;
+                color: #404040;
+                opacity: 0.48;
+                position: absolute;
+                }
+
+            .TP-P1-1{
+top: 3430px;
+left: 1650px;
+width: 33px;
+height: 89px;
+text-align: left;
+font-size: 75px;
+font-family: 'Open Sans';
+letter-spacing: 1.48px;
+color: #F0F0F0;
+opacity: 1;
+position: absolute;
+            }
+
+            .TP-P1-HRLine{
+top: 3600px;
+left: 1250px;
+width: 450px;
+height: 3px;
+background: #F0F0F0 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+            }
+
+            .TP-Pic-2{
+                top: 3640px;
+                left: 1250px;
+                width: 100px;
+                height: 100px;
+                background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                box-shadow: 0px 5px 10px #0000000D;
+                border-radius: 3px;
+                opacity: 1;
+                position: absolute;
+                }
+            
+                .TP-P2-Head{
+                    top: 3640px;
+                    left: 1370px;
+                    width: 399px;
+                    height: 94px;
+                    text-align: left;
+                    font-size: 20px;
+                    font-family: 'Montserrat';
+                    letter-spacing: 0px;
+                    color: #000000;
+                    opacity: 1;
+                    position: absolute;
+                        }
+                    
+                    
+                        .TP-P2-Foot{
+                            top: 3725px;
+                            left: 1370px;
+                            width: 51px;
+                            height: 20px;
+                            text-align: left;
+                            font-size: 15px;
+                            font-family:'Montserrat';
+                            letter-spacing: 0px;
+                            color: #404040;
+                            opacity: 1;
+                            position: absolute;
+                            }
+                            
+                        .TP-P2-Foot-2{
+                            top: 3725px;
+                            left: 1420px;
+                            width: 158px;
+                            height: 20px;
+                            text-align: left;
+                            font-size: 15px;
+                            font-family: 'Montserrat';
+                            letter-spacing: 0.85px;
+                            color: #404040;
+                            opacity: 0.48;
+                            position: absolute;
+                            }
+            
+                        .TP-P2-2{
+            top: 3620px;
+            left: 1650px;
+            width: 33px;
+            height: 89px;
+            text-align: left;
+            font-size: 75px;
+            font-family: 'Open Sans';
+            letter-spacing: 1.48px;
+            color: #F0F0F0;
+            opacity: 1;
+            position: absolute;
+                        }
+            
+                        .TP-P2-HRLine{
+            top: 3775px;
+            left: 1250px;
+            width: 450px;
+            height: 3px;
+            background: #F0F0F0 0% 0% no-repeat padding-box;
+            opacity: 1;
+            position: absolute;
+                        }
+
+                        .TP-Pic-3{
+                            top: 3815px;
+                            left: 1250px;
+                            width: 100px;
+                            height: 100px;
+                            background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                            box-shadow: 0px 5px 10px #0000000D;
+                            border-radius: 3px;
+                            opacity: 1;
+                            position: absolute;
+                            }
+                        
+                            .TP-P3-Head{
+                                top: 3815px;
+                                left: 1370px;
+                                width: 399px;
+                                height: 94px;
+                                text-align: left;
+                                font-size: 20px;
+                                font-family: 'Montserrat';
+                                letter-spacing: 0px;
+                                color: #000000;
+                                opacity: 1;
+                                position: absolute;
+                                    }
                                 
+                                
+                                    .TP-P3-Foot{
+                                        top: 3900px;
+                                        left: 1370px;
+                                        width: 51px;
+                                        height: 20px;
+                                        text-align: left;
+                                        font-size: 15px;
+                                        font-family:'Montserrat';
+                                        letter-spacing: 0px;
+                                        color: #404040;
+                                        opacity: 1;
+                                        position: absolute;
+                                        }
+                                        
+                                    .TP-P3-Foot-2{
+                                        top: 3900px;
+                                        left: 1420px;
+                                        width: 158px;
+                                        height: 20px;
+                                        text-align: left;
+                                        font-size: 15px;
+                                        font-family: 'Montserrat';
+                                        letter-spacing: 0.85px;
+                                        color: #404040;
+                                        opacity: 0.48;
+                                        position: absolute;
+                                        }
+                        
+                                    .TP-P3-3{
+                        top: 3795px;
+                        left: 1650px;
+                        width: 33px;
+                        height: 89px;
+                        text-align: left;
+                        font-size: 75px;
+                        font-family: 'Open Sans';
+                        letter-spacing: 1.48px;
+                        color: #F0F0F0;
+                        opacity: 1;
+                        position: absolute;
+                                    }
+                        
+                                    .TP-P3-HRLine{
+                        top: 3950px;
+                        left: 1250px;
+                        width: 450px;
+                        height: 3px;
+                        background: #F0F0F0 0% 0% no-repeat padding-box;
+                        opacity: 1;
+                        position: absolute;
+                                    }
+
+                                    .TP-Pic-4{
+                                        top: 3990px;
+                                        left: 1250px;
+                                        width: 100px;
+                                        height: 100px;
+                                        background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                                        box-shadow: 0px 5px 10px #0000000D;
+                                        border-radius: 3px;
+                                        opacity: 1;
+                                        position: absolute;
+                                        }
+                                    
+                                        .TP-P4-Head{
+                                            top: 3990px;
+                                            left: 1370px;
+                                            width: 399px;
+                                            height: 94px;
+                                            text-align: left;
+                                            font-size: 20px;
+                                            font-family: 'Montserrat';
+                                            letter-spacing: 0px;
+                                            color: #000000;
+                                            opacity: 1;
+                                            position: absolute;
+                                                }
+                                            
+                                            
+                                                .TP-P4-Foot{
+                                                    top: 4075px;
+                                                    left: 1370px;
+                                                    width: 51px;
+                                                    height: 20px;
+                                                    text-align: left;
+                                                    font-size: 15px;
+                                                    font-family:'Montserrat';
+                                                    letter-spacing: 0px;
+                                                    color: #404040;
+                                                    opacity: 1;
+                                                    position: absolute;
+                                                    }
+                                                    
+                                                .TP-P4-Foot-2{
+                                                    top: 4075px;
+                                                    left: 1420px;
+                                                    width: 158px;
+                                                    height: 20px;
+                                                    text-align: left;
+                                                    font-size: 15px;
+                                                    font-family: 'Montserrat';
+                                                    letter-spacing: 0.85px;
+                                                    color: #404040;
+                                                    opacity: 0.48;
+                                                    position: absolute;
+                                                    }
+                                    
+                                                .TP-P4-4{
+                                    top: 3970px;
+                                    left: 1650px;
+                                    width: 33px;
+                                    height: 89px;
+                                    text-align: left;
+                                    font-size: 75px;
+                                    font-family: 'Open Sans';
+                                    letter-spacing: 1.48px;
+                                    color: #F0F0F0;
+                                    opacity: 1;
+                                    position: absolute;
+                                                }
+
+.TP-Max{
+    top: 3500px;
+    left: 239px;
+    width: 900px;
+    height: 557px;
+    background: transparent url('../pictures/Palace.jpg') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 10px #0000000D;
+    border-radius: 3px;
+    opacity: 1;
+    position: absolute;
+}
+
+#TPFont{
+    top: 239px;
+    left: 155px;
+    width: 500px;
+    height: 200px;
+    font-size: 50px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: relative;
+}
+
+#TPSubFont{
+    top: 449px;
+    right: 14vw;
+    width: 200px;
+    height: 150px;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #FCFCFC;
+    opacity: 0.57;
+    position: relative;
+}
