@@ -6,9 +6,19 @@ return(
     <div class="blog-structure">
     <h1 class="head1">The</h1>
     <div class="head2">Siren</div>
+
+    <div class="menu-icon">
+        <div class="bar-1"></div>
+        <div class="bar-2"></div>
+        <div class="bar-3"></div>
+    </div>
+
     <div class="Home"><b>Home</b></div>
+    <div class="Home-Line"></div>
     <div class="Bollywood"><b>Bollywood</b></div>
+    <div class="Bollywood-Line"></div>
     <div class="Tech"><b>Technology</b></div>
+    <div class="Tech-Line"></div>
     <div class="Hollywood"><b>Hollywood</b></div>
     <div class="Fitness"><b>Fitness</b></div>
     <div class="Food"><b>Food</b></div>
@@ -77,28 +87,28 @@ return(
 
     <div class="LA-P1"></div>
     <div class="LA-P1-Head">Catch waves with an adventure guide</div>
-    <div class="LA-P1-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P1-Text">Gujarat is vastly underrated and it’s a mystery to us <span id="LA-P1-Mobile">why the region isn’t more well-</span></div>
     <div class="LA-P1-Foot">Travel</div>
     <div class="LA-P1-Foot-2">/ February 27 2023</div> 
     <div class="LA-P1-HR-Line"></div>
 
     <div class="LA-P2"></div>
     <div class="LA-P2-Head">Catch waves with an adventure guide</div>
-    <div class="LA-P2-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P2-Text">Gujarat is vastly underrated and it’s a mystery to us <span id="LA-P2-Mobile">why the region isn’t more well-</span></div>
     <div class="LA-P2-Foot">Travel</div>
     <div class="LA-P2-Foot-2">/ February 27 2023</div> 
     <div class="LA-P2-HR-Line"></div>
 
     <div class="LA-P3"></div>
     <div class="LA-P3-Head">Catch waves with an adventure guide</div>
-    <div class="LA-P3-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P3-Text">Gujarat is vastly underrated and it’s a mystery to us <span id="LA-P3-Mobile">why the region isn’t more well-</span></div>
     <div class="LA-P3-Foot">Travel</div>
     <div class="LA-P3-Foot-2">/ February 27 2023</div> 
     <div class="LA-P3-HR-Line"></div>
 
     <div class="LA-P4"></div>
     <div class="LA-P4-Head">Catch waves with an adventure guide</div>
-    <div class="LA-P4-Text">Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+    <div class="LA-P4-Text">Gujarat is vastly underrated and it’s a mystery to us <span id="LA-P4-Mobile">why the region isn’t more well-</span></div>
     <div class="LA-P4-Foot">Travel</div>
     <div class="LA-P4-Foot-2">/ February 27 2023</div> 
 
