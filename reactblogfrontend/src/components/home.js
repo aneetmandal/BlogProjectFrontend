@@ -4,14 +4,18 @@ function Home(){
 return(
     <>
     <div class="blog-structure">
-    <h1 class="head1">The</h1>
-    <div class="head2">Siren</div>
+    <div class="Mobile-Head">
 
+        <div class="Mobilehead1">The</div>
+        <div class="Mobilehead2">Siren</div>
     <div class="menu-icon">
         <div class="bar-1"></div>
         <div class="bar-2"></div>
         <div class="bar-3"></div>
     </div>
+    </div>    
+    <h1 class="head1">The</h1>
+    <div class="head2">Siren</div>
 
     <div class="Home"><b>Home</b></div>
     <div class="Home-Line"></div>
