@@ -1,5 +1,8 @@
 import '../styles/blog.css';
 
+import React from 'react';
+import { Link } from "react-router-dom";
+
 function Home(){
 return(
     <>
@@ -17,7 +20,7 @@ return(
     <h1 class="head1">The</h1>
     <div class="head2">Siren</div>
 
-    <div class="Home"><b>Home</b></div>
+    <Link to ="/article"><div className='Home'><b>Home</b></div></Link>
     <div class="Home-Line"></div>
     <div class="Bollywood"><b>Bollywood</b></div>
     <div class="Bollywood-Line"></div>
