@@ -27,11 +27,71 @@ function Article(){
              components for creating animation in React.<br /><br />Let’s talk about them</div>
 
              <div className='Img-2'></div>
+
+             <button className='Btn-1'>
+                <div className='Btn-1-Text'>React</div>
+             </button>
+             <button className='Btn-2'>
+                <div className='Btn-2-Text'>Javascript</div>
+             </button>
+             <button className='Btn-3'>
+                <div className='Btn-3-Text'>Animation</div>
+             </button>
+
+             <div className='Claps'>
+                <div className='Claps-Icon'></div>
+                <div className='Claps-Text'>9.3K claps</div>
+             </div>
+
+            <div className='Author-Footer'>
+                <div className='Line-1'></div>
+                <div className='Author-Footer-Pic'></div>
+                <div className='Author-Footer-Text'>WRITTEN BY</div>
+                <div className='Author-Footer-Name'>Dmitry Nozhenko</div>
+                <div className='Author-Footer-Timestamp'>March 12, 2023 · 10 min read</div>
+                <div className='Line-2'></div>
+            </div>
+
         </div>
 
         <div className='Footer-Section'>
+        <div className='Footer-Heading'>More From The Siren</div>
+        <div className='Footer-Heading-Line'></div>
 
+        <div className='Footer-Card-1'>
+            <div className='FC1-Head'>Also tagged Reactjs</div>
+            <div className='FC1-Pic'></div>
+            <div className='FC1-Title'>Joshua Tree Overnight Adventure</div>
+            <div className='FC1-Author-Pic'></div>
+            <div className='FC1-Author-Name'>Dmitry Nozhenko</div>
+            <div className='FC1-Author-Timestamp'>March 12, 2023 · 10 min read</div>
+        </div>
 
+        <div className='Footer-Card-2'>
+            <div className='FC2-Head'>Related reads</div>
+            <div className='FC2-Pic'></div>
+            <div className='FC2-Title'>Joshua Tree Overnight Adventure</div>
+            <div className='FC2-Author-Pic'></div>
+            <div className='FC2-Author-Name'>Dmitry Nozhenko</div>
+            <div className='FC2-Author-Timestamp'>March 12, 2023 · 10 min read</div>
+        </div>
+
+      
+            <div className='FC3-Head'>Related reads</div>
+            <div className='FC3-Pic'></div>
+            <div className='FC3-Title'>Joshua Tree Overnight Adventure</div>
+            <div className='FC3-Author-Pic'></div>
+            <div className='FC3-Author-Name'>Dmitry Nozhenko</div>
+            <div className='FC3-Author-Timestamp'>March 12, 2023 · 10 min read</div>
+       
+
+        </div>
+
+        <div className='Left-Box'>
+            <div className='Left-Claps-Icon'></div>
+                <div className='Left-Claps-Text'>9.3K claps</div> 
+                <div className='Share'></div>
+                <div className='Share-Text'>Share this article</div>
         </div>
 
         </div>
