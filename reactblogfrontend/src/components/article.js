@@ -52,6 +52,26 @@ function Article(){
                 <div className='Line-2'></div>
             </div>
 
+            <div className='Mobile-Footer'>
+            <div className='MF-Header'>More From The Siren</div>
+            <div className='MF1-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF1-Author'>Dmitry Nozhenko</div>
+            <div className='MF1-Pic'></div>
+
+            <div className='MF2-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF2-Author'>Dmitry Nozhenko</div>
+            <div className='MF2-Pic'></div>
+
+            <div className='MF3-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF3-Author'>Dmitry Nozhenko</div>
+            <div className='MF3-Pic'></div>
+
+            <div className='MF4-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF4-Author'>Dmitry Nozhenko</div>
+            <div className='MF4-Pic'></div>
+            
+        </div>
+
         </div>
 
         <div className='Footer-Section'>
@@ -93,6 +113,26 @@ function Article(){
                 <div className='Share'></div>
                 <div className='Share-Text'>Share this article</div>
         </div>
+
+        {/* <div className='Mobile-Footer'>
+            <div className='MF-Header'>More From The Siren</div>
+            <div className='MF1-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF1-Author'>Dmitry Nozhenko</div>
+            <div className='MF1-Pic'></div>
+
+            <div className='MF2-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF2-Author'>Dmitry Nozhenko</div>
+            <div className='MF2-Pic'></div>
+
+            <div className='MF3-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF3-Author'>Dmitry Nozhenko</div>
+            <div className='MF3-Pic'></div>
+
+            <div className='MF4-Text'>Performance Comparison for 5 JavaScript Object Iterations</div>
+            <div className='MF4-Author'>Dmitry Nozhenko</div>
+            <div className='MF4-Pic'></div>
+            
+        </div> */}
 
         </div>
         </>

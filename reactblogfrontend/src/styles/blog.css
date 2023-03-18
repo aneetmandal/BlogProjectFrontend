@@ -7,7 +7,9 @@ background: #FFFFFF 0% 0% no-repeat padding-box;
 opacity: 1;
 }
 
-
+.Mobile-Space{
+    display: none;
+}
 
 .Mobilehead1{
     display: none;
@@ -33,7 +35,7 @@ position: absolute;
 
 .head2{
 top: 71px;
-left: 873px;
+left: 853px;
 width: 190px;
 height: 87px;
 text-align: left;
@@ -1506,18 +1508,20 @@ position: absolute;
         height: 5800px;
         background: #FFFFFF 0% 0% no-repeat padding-box;
         opacity: 1;
+        z-index: 0;
         }
 
     .Mobile-Head{
-        position: absolute;
+        position: fixed;
         /* overflow: scroll; */
         top: 0px;
         left: 0px;
         width: 100%;
-        height: 50px;
+        height: 40px;
         background: #FFFFFF 0% 0% no-repeat padding-box;
         box-shadow: 0px 3px 6px #0000001A;
         opacity: 1;
+        z-index: 2;
     }
 
 .Mobilehead1{
@@ -1563,7 +1567,7 @@ display: block;
 
 
 .menu-icon{
-top: 17px;
+top: 10px;
 left: 323px;
 width: 25px;
 height: 16px;
@@ -1601,7 +1605,15 @@ position: relative;
     position: relative;
     }
 
-
+.Mobile-Space{
+    display: block;
+margin-top: 40px;
+z-index: 2;
+height: 40px;
+width: 100%;
+position: fixed;
+overflow: hidden;
+}
 
 .Home{
     top: 81px;
@@ -1615,6 +1627,7 @@ position: relative;
     color: #000000;
     opacity: 1;
     position: absolute;
+    z-index: 1;
 }
 
 .Home-Line{

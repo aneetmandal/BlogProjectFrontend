@@ -25,6 +25,9 @@ background: #FFFFFF 0% 0% no-repeat padding-box;
 box-shadow: 0px 3px 6px #00000029;
 opacity: 1;
 position: absolute;
+/* overflow: hidden;
+position: fixed;
+z-index: 3; */
 }
 
 .Heading-1{
@@ -81,6 +84,11 @@ color: #03A87C;
 opacity: 1;
 position: relative;
 }
+
+/* .Body-Section{
+    margin-top: 55px;
+    
+} */
 
 .Body-Header{
 top: 154px;
@@ -637,4 +645,468 @@ position: fixed;
     top: 0px;
     left: 0px;
     }
+
+    .Mobile-Footer{
+        display: none;
+    }
     
+
+    @media(max-width:400px){
+
+        html, body {
+            overflow-x:visible;
+          }
+          body {
+            position: relative
+          }
+
+          .Article-Page{
+            height: 1800px;
+          }
+        
+            .Heading-1{
+                top: 5px;
+                left: 30px;
+                width: 23px;
+                height: 36px;
+                transform: matrix(0, -1, 1, 0, 0, 0);
+                text-align: left;
+                font-size: 10px;
+                font-weight: 700;
+                font-family: 'Montserrat';
+                letter-spacing: 0px;
+                color: #000000;
+                opacity: 1;
+                /* position: fixed; */
+                }
+                
+               .Heading-2{
+                top: -30px;
+                left: 38px;
+                width: 100px;
+                height: 54px;
+                text-align: left;
+                font-size: 28px;
+                font-weight: bold;
+                font-family: 'Montserrat';
+                letter-spacing: 0px;
+                color: #000000;
+                opacity: 1;
+                /* position: fixed; */
+                }
+
+                .Heading-3{
+                    top: -80px;
+                    left: 260px;
+                    width: 112px;
+                    height: 31px;
+                    background: #FFFFFF 0% 0% no-repeat padding-box;
+                    border: 1px solid #03A87C;
+                    opacity: 1;
+                    /* position: fixed; */
+                    }
+                    
+                   .Btn-Text{
+                    top: -2px;
+                    left: 2px;
+                    /* top: 12px;
+                    left: 205px; */
+                    width: 105px;
+                    height: 24px;
+                    text-align: left;
+                    font: normal normal normal 18px/25px 'Open Sans';
+                    letter-spacing: 0px;
+                    color: #03A87C;
+                    opacity: 1;
+                    /* position: fixed; */
+                    }
+
+                    .Header-Section{
+                        top: 0px;
+                        left: 0px;
+                        width: 100%;
+                        height: 50px;
+                        background: #FFFFFF 0% 0% no-repeat padding-box;
+                        box-shadow: 0px 3px 6px #00000029;
+                        opacity: 1;
+                        position: fixed;
+                        overflow: hidden;
+                        z-index: 3;
+                        }
+
+    .Body-Section{
+        margin-top: 55px;
+        z-index: 2;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        height: 1900px;
+    }
+
+    .Body-Header{
+        top: 25px;
+        left: 35px;
+        width: 313px;
+        height: 34px;
+        text-align: left;
+        font-size: 18px;
+        font-weight: 500;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: relative;
+    }
+
+    .Social-Media{
+top: -130px;
+left: 25px;
+width: 150px;
+height: 60px;
+opacity: 1;
+background: transparent url('../pictures/sm.png') 0% 0% no-repeat padding-box;
+position: relative;
+z-index: 2;
+}
+
+.Author-Pic{
+    top: 70px;
+    left: 35px;
+    width: 103px;
+    height: 103px;
+    background: transparent url('../pictures/MaskGroup17.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: relative;  
+}
+
+.Author-Name{
+ top: -15px;
+ left:120px;
+ position: relative;   
+}
+
+.Author-Timestamp{
+    top: -10px;
+ left:120px;
+ position: relative;   
+}
+    
+
+    .Img-1{
+        top: -15px;
+        left: 35px;
+        width: 302px;
+        height: 166px;
+        background: transparent url('../pictures/SS1.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+        position: relative;
+        overflow-y: scroll;
+        }
+
+    .Body-Text{
+top: 10px;
+left: 35px;
+width: 300px;
+height: 369px;
+text-align: left;
+font: normal normal normal 18px/21px Georgia;
+letter-spacing: 0px;
+color: #272727;
+opacity: 1;
+position: relative;
+/* overflow-y: scroll; */
+    }
+
+    .Img-2{
+    top: -25px;
+left: 5px;
+width: 302px;
+height: 314px;
+background: transparent url('../pictures/SS2.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: relative;
+
+    }
+
+    .Btn-1{
+        top: 10px;
+        left: 35px;
+        position: relative;
+    }
+
+    .Btn-2{
+        top: 10px;
+        left: 55px;
+        position: relative;
+    }
+
+    .Btn-3{
+        top: 10px;
+        left: 75px;
+        position: relative;
+    }
+
+    .Claps-Icon{
+        top: 30px;
+        left: 35px;
+        position: relative;
+    }
+
+    .Claps-Text{
+        top: 0px;
+        left: 85px;
+        position: relative;
+    }
+
+    .Line-1{
+        top: 80px;
+        left: 35px;
+        width: 300px;
+        position: relative;
+    }
+
+    .Author-Footer-Pic{
+        top: 100px;
+        left: 35px;
+        position: relative;
+        background: transparent url('../pictures/MaskGroup17.png') 0% 0% no-repeat padding-box;
+    }
+
+    .Author-Footer-Text{
+        top: 5px;
+        left: 120px;
+        width: 100px;
+        position: relative;
+    }
+
+    .Author-Footer-Name{
+        top: 10px;
+        left: 120px;
+        position: relative;
+    }
+
+    .Author-Footer-Timestamp{
+        top: 10px;
+        left: 120px;
+        position: relative;
+    }
+
+    .Mobile-Footer{
+        display: block;
+        margin-top: 55px;
+        height: 425px;
+    }
+
+    .MF-Header{
+top: 0px;
+left: 15px;
+width: 305px;
+height: 30px;
+text-align: left;
+font-size: 25px;
+font-family: 'Open Sans';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: relative;
+    }
+
+    .MF1-Text{
+top: 30px;
+left: 15px;
+width: 284px;
+height: 40px;
+text-align: left;
+font-size: 15px;
+font-weight: 600;
+font-family: 'Open Sans';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: relative;
+    }
+
+    .MF1-Author{
+        top: 35px;
+left: 15px;
+width: 284px;
+height: 40px;
+text-align: left;
+font-size: 20px;
+font-weight: 200;
+font-family: 'Open Sans';
+letter-spacing: 0px;
+color: #939393;
+opacity: 1;
+position: relative;
+    }
+
+    .MF1-Pic{
+top: -50px;
+left: 270px;
+width: 78px;
+height: 66px;
+background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+box-shadow: 0px 5px 10px #0000000D;
+border-radius: 7px 7px 0px 0px;
+opacity: 1;
+position: relative;
+    }
+
+    .MF2-Text{
+        top: -20px;
+        left: 15px;
+        width: 284px;
+        height: 40px;
+        text-align: left;
+        font-size: 15px;
+        font-weight: 600;
+        font-family: 'Open Sans';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: relative;
+            }
+        
+            .MF2-Author{
+                top: -15px;
+        left: 15px;
+        width: 284px;
+        height: 40px;
+        text-align: left;
+        font-size: 20px;
+        font-weight: 200;
+        font-family: 'Open Sans';
+        letter-spacing: 0px;
+        color: #939393;
+        opacity: 1;
+        position: relative;
+            }
+        
+            .MF2-Pic{
+        top: -100px;
+        left: 270px;
+        width: 78px;
+        height: 66px;
+        background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+        box-shadow: 0px 5px 10px #0000000D;
+        border-radius: 7px 7px 0px 0px;
+        opacity: 1;
+        position: relative;
+            }
+
+            .MF3-Text{
+                top: -70px;
+                left: 15px;
+                width: 284px;
+                height: 40px;
+                text-align: left;
+                font-size: 15px;
+                font-weight: 600;
+                font-family: 'Open Sans';
+                letter-spacing: 0px;
+                color: #000000;
+                opacity: 1;
+                position: relative;
+                    }
+                
+                    .MF3-Author{
+                        top: -65px;
+                left: 15px;
+                width: 284px;
+                height: 40px;
+                text-align: left;
+                font-size: 20px;
+                font-weight: 200;
+                font-family: 'Open Sans';
+                letter-spacing: 0px;
+                color: #939393;
+                opacity: 1;
+                position: relative;
+                    }
+                
+                    .MF3-Pic{
+                top: -150px;
+                left: 270px;
+                width: 78px;
+                height: 66px;
+                background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                box-shadow: 0px 5px 10px #0000000D;
+                border-radius: 7px 7px 0px 0px;
+                opacity: 1;
+                position: relative;
+                    }    
+        
+                    .MF4-Text{
+                        top: -120px;
+                        left: 15px;
+                        width: 284px;
+                        height: 40px;
+                        text-align: left;
+                        font-size: 15px;
+                        font-weight: 600;
+                        font-family: 'Open Sans';
+                        letter-spacing: 0px;
+                        color: #000000;
+                        opacity: 1;
+                        position: relative;
+                            }
+                        
+                            .MF4-Author{
+                                top: -115px;
+                        left: 15px;
+                        width: 284px;
+                        height: 40px;
+                        text-align: left;
+                        font-size: 20px;
+                        font-weight: 200;
+                        font-family: 'Open Sans';
+                        letter-spacing: 0px;
+                        color: #939393;
+                        opacity: 1;
+                        position: relative;
+                            }
+                        
+                            .MF4-Pic{
+                        top: -200px;
+                        left: 270px;
+                        width: 78px;
+                        height: 66px;
+                        background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                        box-shadow: 0px 5px 10px #0000000D;
+                        border-radius: 7px 7px 0px 0px;
+                        opacity: 1;
+                        position: relative;
+                            }    
+    
+
+    .Line-2{
+        display: none;
+    }
+
+
+    .Footer-Section{
+        display: none;
+    }
+
+    .Left-Claps-Icon{
+        display: none;
+         }
+         
+         .Left-Claps-Text{
+         display: none;
+         }
+
+
+.Share{
+display: none;
+}
+
+.Share-Text{
+display: none;
+}
+
+.Left-Box{
+display: none;
+}
+
+    }
