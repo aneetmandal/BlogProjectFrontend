@@ -1,0 +1,1199 @@
+.Bollywood-Page{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 2469px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.B-Header-Section{
+top: 0px;
+width: 100%;
+height: 150px;
+position: absolute;
+}
+
+.B-Heading-1{
+    top: 65px;
+    left: 43vw;
+    width: 39px;
+    height: 60px;
+    transform: matrix(0, -1, 1, 0, 0, 0);
+    text-align: left;
+    font-weight: 500;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1; 
+    position: relative;  
+}
+
+.B-Heading-2{
+    top: 0px;
+    left: 44vw;
+    width: 39px;
+    height: 60px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1; 
+    position: relative;  
+
+}
+
+.Menu-Bar{
+    top: 150px;
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+
+.B-Home{
+    top: 0px;
+    left: 350px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: relative;
+}
+
+.B-Bollywood{
+    top: -20px;
+    left: 600px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: relative;
+}
+
+.B-Technology{
+    top: -43px;
+    left: 850px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: relative;
+}
+
+.B-Hollywood{
+    
+        top: -65px;
+        left:1100px;
+        width: 56px;
+        height: 22px;
+        text-align: left;
+        font-weight: 700;
+        font-size: 22px;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: relative;
+}
+
+.B-Fitness{
+        top: -87px;
+        left:1350px;
+        width: 56px;
+        height: 22px;
+        text-align: left;
+        font-weight: 700;
+        font-size: 22px;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: relative;
+}
+
+.B-Food{
+        top: -109px;
+        left:1600px;
+        width: 56px;
+        height: 22px;
+        text-align: left;
+        font-weight: 700;
+        font-size: 22px;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: relative;
+}
+
+.B-Line{
+top: -85px;
+left: 290px;
+width: 1440px;
+height: 3px;
+background: #F0F0F0 0% 0% no-repeat padding-box;
+opacity: 1;
+position: relative;
+}
+
+.Bollywood-Section{
+    position: relative;
+    height: 1920px;
+    z-index: 1;
+}
+
+.Bollywood-Header{
+top: 200px;
+left: 296px;
+width: 213px;
+height: 49px;
+text-align: left;
+font-weight: 500;
+font-size: 40px;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: relative;
+}
+
+.Bollywood-Header-Line{
+top: 210px;
+left: 296px;
+width: 90px;
+height: 3px;
+background: #F08080 0% 0% no-repeat padding-box;
+opacity: 1;
+position: relative;
+}
+
+.BW1-Pic{
+    top: 300px;
+    left: 290px;
+    width: 308px;
+    height: 184px;
+    background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 10px #0000000D;
+    position: absolute;
+        }
+    
+.BW1-Head{
+    top: 300px;
+    left: 630px;
+    width: 399px;
+    height: 94px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    z-index:1;
+        }
+    
+        .BW1-Text{
+    top: 400px;
+    left: 630px;
+    width: 358px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 17px/23px 'Open Sans';
+    letter-spacing: 0px;
+    color: #908D8D;
+    opacity: 1;
+    position: absolute;
+        }
+    
+        .BW1-Tag{
+            top: 470px;
+            left: 630px;
+            width: 51px;
+            height: 20px;
+            text-align: left;
+            font-weight: 500;
+            font-size: 15px;
+            font-family:'Montserrat';
+            letter-spacing: 0px;
+            color: #404040;
+            opacity: 1;
+            position: absolute;
+            }
+            
+        .BW1-Date{
+            top: 470px;
+            left: 680px;
+            width: 158px;
+            height: 20px;
+            text-align: left;
+            font-size: 15px;
+            font-family: 'Montserrat';
+            letter-spacing: 0.85px;
+            color: #404040;
+            opacity: 0.48;
+            position: absolute;
+            }
+    
+        .BW1-HR-Line{
+    top: 550px;
+    left: 290px;
+    width: 946px;
+    height: 3px;
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+            }
+
+.BW1-Pic{
+    top: 300px;
+    left: 290px;
+    width: 308px;
+    height: 184px;
+    background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 10px #0000000D;
+    position: absolute;
+        }
+    
+.BW1-Head{
+    top: 300px;
+    left: 630px;
+    width: 399px;
+    height: 94px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    z-index:1;
+        }
+    
+        .BW1-Text{
+    top: 400px;
+    left: 630px;
+    width: 358px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 17px/23px 'Open Sans';
+    letter-spacing: 0px;
+    color: #908D8D;
+    opacity: 1;
+    position: absolute;
+        }
+    
+        .BW1-Tag{
+            top: 470px;
+            left: 630px;
+            width: 51px;
+            height: 20px;
+            text-align: left;
+            font-weight: 500;
+            font-size: 15px;
+            font-family:'Montserrat';
+            letter-spacing: 0px;
+            color: #404040;
+            opacity: 1;
+            position: absolute;
+            }
+            
+        .BW1-Date{
+            top: 470px;
+            left: 680px;
+            width: 158px;
+            height: 20px;
+            text-align: left;
+            font-size: 15px;
+            font-family: 'Montserrat';
+            letter-spacing: 0.85px;
+            color: #404040;
+            opacity: 0.48;
+            position: absolute;
+            }
+    
+        .BW1-HR-Line{
+    top: 550px;
+    left: 290px;
+    width: 946px;
+    height: 3px;
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+            }
+
+            .BW2-Pic{
+                top: 590px;
+                left: 290px;
+                width: 308px;
+                height: 184px;
+                background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+                box-shadow: 0px 5px 10px #0000000D;
+                position: absolute;
+                    }
+                
+            .BW2-Head{
+                top: 590px;
+                left: 630px;
+                width: 399px;
+                height: 94px;
+                text-align: left;
+                font-size: 30px;
+                font-weight: 500;
+                font-family: 'Montserrat';
+                letter-spacing: 0px;
+                color: #000000;
+                opacity: 1;
+                position: absolute;
+                z-index:1;
+                    }
+                
+                    .BW2-Text{
+                top: 690px;
+                left: 630px;
+                width: 358px;
+                height: 50px;
+                text-align: left;
+                font: normal normal normal 17px/23px 'Open Sans';
+                letter-spacing: 0px;
+                color: #908D8D;
+                opacity: 1;
+                position: absolute;
+                    }
+                
+                    .BW2-Tag{
+                        top: 760px;
+                        left: 630px;
+                        width: 51px;
+                        height: 20px;
+                        text-align: left;
+                        font-weight: 500;
+                        font-size: 15px;
+                        font-family:'Montserrat';
+                        letter-spacing: 0px;
+                        color: #404040;
+                        opacity: 1;
+                        position: absolute;
+                        }
+                        
+                    .BW2-Date{
+                        top: 760px;
+                        left: 680px;
+                        width: 158px;
+                        height: 20px;
+                        text-align: left;
+                        font-size: 15px;
+                        font-family: 'Montserrat';
+                        letter-spacing: 0.85px;
+                        color: #404040;
+                        opacity: 0.48;
+                        position: absolute;
+                        }
+                
+                    .BW2-HR-Line{
+                top: 810px;
+                left: 290px;
+                width: 946px;
+                height: 3px;
+                background: #F0F0F0 0% 0% no-repeat padding-box;
+                opacity: 1;
+                position: absolute;
+                        }
+
+                        .BW3-Pic{
+                            top: 850px;
+                            left: 290px;
+                            width: 308px;
+                            height: 184px;
+                            background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+                            box-shadow: 0px 5px 10px #0000000D;
+                            position: absolute;
+                                }
+                            
+                        .BW3-Head{
+                            top: 850px;
+                            left: 630px;
+                            width: 399px;
+                            height: 94px;
+                            text-align: left;
+                            font-size: 30px;
+                            font-weight: 500;
+                            font-family: 'Montserrat';
+                            letter-spacing: 0px;
+                            color: #000000;
+                            opacity: 1;
+                            position: absolute;
+                            z-index:1;
+                                }
+                            
+                                .BW3-Text{
+                            top: 950px;
+                            left: 630px;
+                            width: 358px;
+                            height: 50px;
+                            text-align: left;
+                            font: normal normal normal 17px/23px 'Open Sans';
+                            letter-spacing: 0px;
+                            color: #908D8D;
+                            opacity: 1;
+                            position: absolute;
+                                }
+                            
+                                .BW3-Tag{
+                                    top: 1020px;
+                                    left: 630px;
+                                    width: 51px;
+                                    height: 20px;
+                                    text-align: left;
+                                    font-weight: 500;
+                                    font-size: 15px;
+                                    font-family:'Montserrat';
+                                    letter-spacing: 0px;
+                                    color: #404040;
+                                    opacity: 1;
+                                    position: absolute;
+                                    }
+                                    
+                                .BW3-Date{
+                                    top: 1020px;
+                                    left: 680px;
+                                    width: 158px;
+                                    height: 20px;
+                                    text-align: left;
+                                    font-size: 15px;
+                                    font-family: 'Montserrat';
+                                    letter-spacing: 0.85px;
+                                    color: #404040;
+                                    opacity: 0.48;
+                                    position: absolute;
+                                    }
+                            
+                                .BW3-HR-Line{
+                            top: 1070px;
+                            left: 290px;
+                            width: 946px;
+                            height: 3px;
+                            background: #F0F0F0 0% 0% no-repeat padding-box;
+                            opacity: 1;
+                            position: absolute;
+                                    }
+
+
+                                    .BW4-Pic{
+                                        top: 1110px;
+                                        left: 290px;
+                                        width: 308px;
+                                        height: 184px;
+                                        background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+                                        box-shadow: 0px 5px 10px #0000000D;
+                                        position: absolute;
+                                            }
+                                        
+                                    .BW4-Head{
+                                        top: 1110px;
+                                        left: 630px;
+                                        width: 399px;
+                                        height: 94px;
+                                        text-align: left;
+                                        font-size: 30px;
+                                        font-weight: 500;
+                                        font-family: 'Montserrat';
+                                        letter-spacing: 0px;
+                                        color: #000000;
+                                        opacity: 1;
+                                        position: absolute;
+                                        z-index:1;
+                                            }
+                                        
+                                            .BW4-Text{
+                                        top: 1210px;
+                                        left: 630px;
+                                        width: 358px;
+                                        height: 50px;
+                                        text-align: left;
+                                        font: normal normal normal 17px/23px 'Open Sans';
+                                        letter-spacing: 0px;
+                                        color: #908D8D;
+                                        opacity: 1;
+                                        position: absolute;
+                                            }
+                                        
+                                            .BW4-Tag{
+                                                top: 1280px;
+                                                left: 630px;
+                                                width: 51px;
+                                                height: 20px;
+                                                text-align: left;
+                                                font-weight: 500;
+                                                font-size: 15px;
+                                                font-family:'Montserrat';
+                                                letter-spacing: 0px;
+                                                color: #404040;
+                                                opacity: 1;
+                                                position: absolute;
+                                                }
+                                                
+                                            .BW4-Date{
+                                                top: 1280px;
+                                                left: 680px;
+                                                width: 158px;
+                                                height: 20px;
+                                                text-align: left;
+                                                font-size: 15px;
+                                                font-family: 'Montserrat';
+                                                letter-spacing: 0.85px;
+                                                color: #404040;
+                                                opacity: 0.48;
+                                                position: absolute;
+                                                }
+                                        
+                                            .BW4-HR-Line{
+                                        top: 1330px;
+                                        left: 290px;
+                                        width: 946px;
+                                        height: 3px;
+                                        background: #F0F0F0 0% 0% no-repeat padding-box;
+                                        opacity: 1;
+                                        position: absolute;
+                                                }
+
+                                                .BW5-Pic{
+                                                    top: 1370px;
+                                                    left: 290px;
+                                                    width: 308px;
+                                                    height: 184px;
+                                                    background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+                                                    box-shadow: 0px 5px 10px #0000000D;
+                                                    position: absolute;
+                                                        }
+                                                    
+                                                .BW5-Head{
+                                                    top: 1370px;
+                                                    left: 630px;
+                                                    width: 399px;
+                                                    height: 94px;
+                                                    text-align: left;
+                                                    font-size: 30px;
+                                                    font-weight: 500;
+                                                    font-family: 'Montserrat';
+                                                    letter-spacing: 0px;
+                                                    color: #000000;
+                                                    opacity: 1;
+                                                    position: absolute;
+                                                    z-index:1;
+                                                        }
+                                                    
+                                                        .BW5-Text{
+                                                    top: 1470px;
+                                                    left: 630px;
+                                                    width: 358px;
+                                                    height: 50px;
+                                                    text-align: left;
+                                                    font: normal normal normal 17px/23px 'Open Sans';
+                                                    letter-spacing: 0px;
+                                                    color: #908D8D;
+                                                    opacity: 1;
+                                                    position: absolute;
+                                                        }
+                                                    
+                                                        .BW5-Tag{
+                                                            top: 1540px;
+                                                            left: 630px;
+                                                            width: 51px;
+                                                            height: 20px;
+                                                            text-align: left;
+                                                            font-weight: 500;
+                                                            font-size: 15px;
+                                                            font-family:'Montserrat';
+                                                            letter-spacing: 0px;
+                                                            color: #404040;
+                                                            opacity: 1;
+                                                            position: absolute;
+                                                            }
+                                                            
+                                                        .BW5-Date{
+                                                            top: 1540px;
+                                                            left: 680px;
+                                                            width: 158px;
+                                                            height: 20px;
+                                                            text-align: left;
+                                                            font-size: 15px;
+                                                            font-family: 'Montserrat';
+                                                            letter-spacing: 0.85px;
+                                                            color: #404040;
+                                                            opacity: 0.48;
+                                                            position: absolute;
+                                                            }
+                                                    
+                                                        .BW5-HR-Line{
+                                                    top: 1590px;
+                                                    left: 290px;
+                                                    width: 946px;
+                                                    height: 3px;
+                                                    background: #F0F0F0 0% 0% no-repeat padding-box;
+                                                    opacity: 1;
+                                                    position: absolute;
+                                                            }
+                                    
+.BW6-Pic{
+top: 1630px;
+left: 290px;
+width: 308px;
+height: 184px;
+background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+box-shadow: 0px 5px 10px #0000000D;
+position: absolute;
+}
+                                                                
+.BW6-Head{
+top: 1630px;
+left: 630px;
+width: 399px;
+height: 94px;
+text-align: left;
+font-size: 30px;
+font-weight: 500;
+font-family: 'Montserrat';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+z-index:1;
+}
+                                                                
+.BW6-Text{
+top: 1730px;
+left: 630px;
+width: 358px;
+height: 50px;
+text-align: left;
+font: normal normal normal 17px/23px 'Open Sans';
+letter-spacing: 0px;
+color: #908D8D;
+opacity: 1;
+position: absolute;
+}
+                                                                
+.BW6-Tag{
+top: 1800px;
+left: 630px;
+width: 51px;
+height: 20px;
+text-align: left;
+font-weight: 500;
+font-size: 15px;
+font-family:'Montserrat';
+letter-spacing: 0px;
+color: #404040;
+opacity: 1;
+position: absolute;
+}
+                                                                        
+.BW6-Date{
+ top: 1800px;
+ left: 680px;
+ width: 158px;
+ height: 20px;
+ text-align: left;
+ font-size: 15px;
+ font-family: 'Montserrat';
+ letter-spacing: 0.85px;
+ color: #404040;
+ opacity: 0.48;
+ position: absolute;
+ }
+                                                                
+ .BW6-HR-Line{
+top: 1850px;
+left: 290px;
+width: 946px;
+height: 3px;
+background: #F0F0F0 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.BW7-Pic{
+    top: 1890px;
+    left: 290px;
+    width: 308px;
+    height: 184px;
+    background: transparent url('../pictures/Castle-Resize.jpg') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 10px #0000000D;
+    position: absolute;
+    }
+                                                                    
+    .BW7-Head{
+    top: 1890px;
+    left: 630px;
+    width: 399px;
+    height: 94px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    z-index:1;
+    }
+                                                                    
+    .BW7-Text{
+    top: 1990px;
+    left: 630px;
+    width: 358px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 17px/23px 'Open Sans';
+    letter-spacing: 0px;
+    color: #908D8D;
+    opacity: 1;
+    position: absolute;
+    }
+                                                                    
+    .BW7-Tag{
+    top: 2060px;
+    left: 630px;
+    width: 51px;
+    height: 20px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 15px;
+    font-family:'Montserrat';
+    letter-spacing: 0px;
+    color: #404040;
+    opacity: 1;
+    position: absolute;
+    }
+                                                                            
+    .BW7-Date{
+     top: 2060px;
+     left: 680px;
+     width: 158px;
+     height: 20px;
+     text-align: left;
+     font-size: 15px;
+     font-family: 'Montserrat';
+     letter-spacing: 0.85px;
+     color: #404040;
+     opacity: 0.48;
+     position: absolute;
+     }
+                                                                    
+     .B-Load-Arrow{
+        top: 2150px;
+        left: 284px;
+        width: 11px;
+        height: 19px;
+        /* transform: matrix(0, -1, -1, 0, 0, 0); */
+        background: transparent url('../pictures/arrow.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+        position: absolute;
+        }
+        
+        .B-Load-More{
+            top: 2150px;
+            left: 308px;
+            width: 128px;
+            height: 23px;
+            text-align: left;
+            font: normal normal normal 17px/23px 'Montserrat';
+            letter-spacing: 0px;
+            color: #A2A2A2;
+            opacity: 1;  
+            position: absolute;
+        }
+
+        /* .B-Top-Section{
+            position: absolute;
+            top: 200px;
+            left: 1000px;
+            width: 700px;
+            height: 1920px;
+            z-index: 1;
+        } */
+        
+        .B-Top-Header{
+        top: 280px;
+        left: 1350px;
+        width: 213px;
+        height: 49px;
+        text-align: left;
+        font-weight: 500;
+        font-size: 40px;
+        font-family: 'Montserrat';
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: absolute;
+        }
+        
+        .B-Header-Line{
+        top: 339px;
+        left: 1350px;
+        width: 90px;
+        height: 3px;
+        background: #F08080 0% 0% no-repeat padding-box;
+        opacity: 1;
+        position: absolute;
+        }
+
+        .BTP-1-Pic{
+            top: 380px;
+            left: 1350px;
+            width: 452px;
+            height: 266px;
+            background: transparent url('../pictures/TempleView.jpg') 0% 0% no-repeat padding-box;
+            box-shadow: 0px 5px 10px #0000000D;
+            border-radius: 3px;
+            opacity: 1;
+            position: absolute;
+            }
+        
+            .BTP-1-Head{
+                top: 680px;
+                left: 1350px;
+                width: 399px;
+                height: 94px;
+                text-align: left;
+                font-size: 30px;
+                font-weight: 500;
+                font-family: 'Montserrat';
+                letter-spacing: 0px;
+                color: #000000;
+                opacity: 1;
+                position: absolute;
+                    }
+                
+                
+                    .BTP-1-Tag{
+                        top: 780px;
+                        left: 1350px;
+                        width: 51px;
+                        height: 20px;
+                        text-align: left;
+                        font-size: 15px;
+                        font-family:'Montserrat';
+                        font-weight: 500;
+                        letter-spacing: 0px;
+                        color: #404040;
+                        opacity: 1;
+                        position: absolute;
+                        }
+                        
+                    .BTP-1-Time{
+                        top: 780px;
+                        left: 1400px;
+                        width: 158px;
+                        height: 20px;
+                        text-align: left;
+                        font-size: 15px;
+                        font-family: 'Montserrat';
+                        letter-spacing: 0.85px;
+                        color: #404040;
+                        opacity: 0.48;
+                        position: absolute;
+                        }
+        
+                    .BTP-1-1{
+        top: 660px;
+        left: 1770px;
+        width: 33px;
+        height: 89px;
+        text-align: left;
+        font-size: 75px;
+        font-family: 'Open Sans';
+        letter-spacing: 1.48px;
+        color: #F0F0F0;
+        opacity: 1;
+        position: absolute;
+                    }
+        
+                    .BTP-1-HR{
+        top: 830px;
+        left: 1350px;
+        width: 450px;
+        height: 3px;
+        background: #F0F0F0 0% 0% no-repeat padding-box;
+        opacity: 1;
+        position: absolute;
+                    }
+ 
+                    .BTP-2-Pic{
+                        top: 860px;
+                        left: 1350px;
+                        width: 100px;
+                        height: 100px;
+                        background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                        box-shadow: 0px 5px 10px #0000000D;
+                        border-radius: 3px;
+                        opacity: 1;
+                        position: absolute;
+                        }
+                    
+                        .BTP-2-Head{
+                            top: 860px;
+                            left: 1470px;
+                            width: 399px;
+                            height: 94px;
+                            text-align: left;
+                            font-size: 26px;
+                            font-weight: 500;
+                            font-family: 'Montserrat';
+                            letter-spacing: 0px;
+                            color: #000000;
+                            opacity: 1;
+                            position: absolute;
+                                }
+                            
+                            
+                                .BTP-2-Tag{
+                                    top: 945px;
+                                    left: 1470px;
+                                    width: 51px;
+                                    height: 20px;
+                                    text-align: left;
+                                    font-size: 15px;
+                                    font-family:'Montserrat';
+                                    font-weight: 500;
+                                    letter-spacing: 0px;
+                                    color: #404040;
+                                    opacity: 1;
+                                    position: absolute;
+                                    }
+                                    
+                                .BTP-2-Time{
+                                    top: 945px;
+                                    left: 1520px;
+                                    width: 158px;
+                                    height: 20px;
+                                    text-align: left;
+                                    font-size: 15px;
+                                    font-family: 'Montserrat';
+                                    letter-spacing: 0.85px;
+                                    color: #404040;
+                                    opacity: 0.48;
+                                    position: absolute;
+                                    }
+                    
+                                .BTP-2-2{
+                    top: 850px;
+                    left: 1770px;
+                    width: 33px;
+                    height: 89px;
+                    text-align: left;
+                    font-size: 75px;
+                    font-family: 'Open Sans';
+                    letter-spacing: 1.48px;
+                    color: #F0F0F0;
+                    opacity: 1;
+                    position: absolute;
+                                }
+                    
+                                .BTP-2-HR{
+                    top: 1000px;
+                    left: 1350px;
+                    width: 450px;
+                    height: 3px;
+                    background: #F0F0F0 0% 0% no-repeat padding-box;
+                    opacity: 1;
+                    position: absolute;
+                                }
+
+                                .BTP-3-Pic{
+                                    top: 1030px;
+                                    left: 1350px;
+                                    width: 100px;
+                                    height: 100px;
+                                    background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                                    box-shadow: 0px 5px 10px #0000000D;
+                                    border-radius: 3px;
+                                    opacity: 1;
+                                    position: absolute;
+                                    }
+                                
+                                    .BTP-3-Head{
+                                        top: 1030px;
+                                        left: 1470px;
+                                        width: 399px;
+                                        height: 94px;
+                                        text-align: left;
+                                        font-size: 26px;
+                                        font-weight: 500;
+                                        font-family: 'Montserrat';
+                                        letter-spacing: 0px;
+                                        color: #000000;
+                                        opacity: 1;
+                                        position: absolute;
+                                            }
+                                        
+                                        
+                                            .BTP-3-Tag{
+                                                top: 1115px;
+                                                left: 1470px;
+                                                width: 51px;
+                                                height: 20px;
+                                                text-align: left;
+                                                font-size: 15px;
+                                                font-family:'Montserrat';
+                                                font-weight: 500;
+                                                letter-spacing: 0px;
+                                                color: #404040;
+                                                opacity: 1;
+                                                position: absolute;
+                                                }
+                                                
+                                            .BTP-3-Time{
+                                                top: 1115px;
+                                                left: 1520px;
+                                                width: 158px;
+                                                height: 20px;
+                                                text-align: left;
+                                                font-size: 15px;
+                                                font-family: 'Montserrat';
+                                                letter-spacing: 0.85px;
+                                                color: #404040;
+                                                opacity: 0.48;
+                                                position: absolute;
+                                                }
+                                
+                                            .BTP-3-3{
+                                top: 1020px;
+                                left: 1770px;
+                                width: 33px;
+                                height: 89px;
+                                text-align: left;
+                                font-size: 75px;
+                                font-family: 'Open Sans';
+                                letter-spacing: 1.48px;
+                                color: #F0F0F0;
+                                opacity: 1;
+                                position: absolute;
+                                            }
+                                
+                                            .BTP-3-HR{
+                                top: 1170px;
+                                left: 1350px;
+                                width: 450px;
+                                height: 3px;
+                                background: #F0F0F0 0% 0% no-repeat padding-box;
+                                opacity: 1;
+                                position: absolute;
+                                            }
+
+                                            .BTP-4-Pic{
+                                                top: 1200px;
+                                                left: 1350px;
+                                                width: 100px;
+                                                height: 100px;
+                                                background: transparent url('../pictures/mincastle.jpg') 0% 0% no-repeat padding-box;
+                                                box-shadow: 0px 5px 10px #0000000D;
+                                                border-radius: 3px;
+                                                opacity: 1;
+                                                position: absolute;
+                                                }
+                                            
+                                                .BTP-4-Head{
+                                                    top: 1200px;
+                                                    left: 1470px;
+                                                    width: 399px;
+                                                    height: 94px;
+                                                    text-align: left;
+                                                    font-size: 26px;
+                                                    font-weight: 500;
+                                                    font-family: 'Montserrat';
+                                                    letter-spacing: 0px;
+                                                    color: #000000;
+                                                    opacity: 1;
+                                                    position: absolute;
+                                                        }
+                                                    
+                                                    
+                                                        .BTP-4-Tag{
+                                                            top: 1285px;
+                                                            left: 1470px;
+                                                            width: 51px;
+                                                            height: 20px;
+                                                            text-align: left;
+                                                            font-size: 15px;
+                                                            font-family:'Montserrat';
+                                                            font-weight: 500;
+                                                            letter-spacing: 0px;
+                                                            color: #404040;
+                                                            opacity: 1;
+                                                            position: absolute;
+                                                            }
+                                                            
+                                                        .BTP-4-Time{
+                                                            top: 1285px;
+                                                            left: 1520px;
+                                                            width: 158px;
+                                                            height: 20px;
+                                                            text-align: left;
+                                                            font-size: 15px;
+                                                            font-family: 'Montserrat';
+                                                            letter-spacing: 0.85px;
+                                                            color: #404040;
+                                                            opacity: 0.48;
+                                                            position: absolute;
+                                                            }
+                                            
+                                                        .BTP-4-4{
+                                            top: 1190px;
+                                            left: 1770px;
+                                            width: 33px;
+                                            height: 89px;
+                                            text-align: left;
+                                            font-size: 75px;
+                                            font-family: 'Open Sans';
+                                            letter-spacing: 1.48px;
+                                            color: #F0F0F0;
+                                            opacity: 1;
+                                            position: absolute;
+                                                        }
+
+                                                        .B-Adv-Border{
+                                                            top: 1410px;
+                                                            left: 1350px;
+                                                            width: 452px;
+                                                            height: 819px;
+                                                            background: #FFFFFF 0% 0% no-repeat padding-box;
+                                                            border: 1px solid #707070;
+                                                            opacity: 1;
+                                                            position: absolute;
+                                                            }              
+                                                            
+                                                            .B-Adv{
+                                                            top: 1770px;
+                                                            left: 1430px;
+                                                            width: 318px;
+                                                            height: 49px;
+                                                            text-align: left;
+                                                            font-size: 40px;
+                                                            font-family: 'Montserrat';
+                                                            letter-spacing: 0px;
+                                                            color: #000000;
+                                                            opacity: 1;
+                                                            position: absolute;
+                                                            }

@@ -24,7 +24,7 @@ return(
 
     <Link to ="/article"><div className='Home'><b>Home</b></div></Link>
     <div class="Home-Line"></div>
-    <div class="Bollywood"><b>Bollywood</b></div>
+    <Link to ="/bollywood"><div class="Bollywood"><b>Bollywood</b></div></Link>
     <div class="Bollywood-Line"></div>
     <div class="Tech"><b>Technology</b></div>
     <div class="Tech-Line"></div>
