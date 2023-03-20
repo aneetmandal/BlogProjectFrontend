@@ -32,28 +32,28 @@ class Bollywood extends Component{
 
                 <div className='BW1-Pic'></div>
                 <div className='BW1-Head'>Catch waves with an adventure guide</div>
-                <div className='BW1-Text'>Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+                <div className='BW1-Text'>Gujarat is vastly underrated and it’s a mystery to us<span className='BW1-MobileText'> why the region isn’t more well-</span></div>
                 <div className='BW1-Tag'>Travel</div>
                 <div className='BW1-Date'>/ March 18 2023</div>
                 <div className='BW1-HR-Line'></div>
 
                 <div className='BW2-Pic'></div>
                 <div className='BW2-Head'>Catch waves with an adventure guide</div>
-                <div className='BW2-Text'>Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+                <div className='BW2-Text'>Gujarat is vastly underrated and it’s a mystery to us<span className='BW2-MobileText'> why the region isn’t more well-</span></div>
                 <div className='BW2-Tag'>Travel</div>
                 <div className='BW2-Date'>/ March 18 2023</div>
                 <div className='BW2-HR-Line'></div>
 
                 <div className='BW3-Pic'></div>
                 <div className='BW3-Head'>Catch waves with an adventure guide</div>
-                <div className='BW3-Text'>Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+                <div className='BW3-Text'>Gujarat is vastly underrated and it’s a mystery to us<span className='BW3-MobileText'> why the region isn’t more well-</span></div>
                 <div className='BW3-Tag'>Travel</div>
                 <div className='BW3-Date'>/ March 18 2023</div>
                 <div className='BW3-HR-Line'></div>
 
                 <div className='BW4-Pic'></div>
                 <div className='BW4-Head'>Catch waves with an adventure guide</div>
-                <div className='BW4-Text'>Gujarat is vastly underrated and it’s a mystery to us why the region isn’t more well-</div>
+                <div className='BW4-Text'>Gujarat is vastly underrated and it’s a mystery to us<span className='BW4-MobileText'> why the region isn’t more well-</span></div>
                 <div className='BW4-Tag'>Travel</div>
                 <div className='BW4-Date'>/ March 18 2023</div>
                 <div className='BW4-HR-Line'></div>
