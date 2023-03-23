@@ -1,5 +1,7 @@
 import '../styles/article.css';
 
+import React from 'react';
+import { Link } from "react-router-dom";
 
 function Article(){
     return(
@@ -8,9 +10,9 @@ function Article(){
         <div className='Header-Section'>
             <div className='Heading-1'>The</div>
             <div className='Heading-2'>Siren</div>
-            <button className='Heading-3'>
+            <Link to={"/"}><button className='Heading-3'>
                 <div className='Btn-Text'>Get Started</div>
-            </button>
+            </button></Link>
         </div>
         <div className='Body-Section'>
             <div className='Body-Header'>5 Ways to animate a React app</div>

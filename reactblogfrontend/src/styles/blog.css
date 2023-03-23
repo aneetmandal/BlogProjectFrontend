@@ -1504,16 +1504,16 @@ position: absolute;
     .blog-structure{
         top: 0px;
         left: 0px;
-        width: 390px;
+        width: 388px;
         height: 5800px;
         background: #FFFFFF 0% 0% no-repeat padding-box;
         opacity: 1;
-        z-index: 0;
+        z-index: 1;
         }
 
     .Mobile-Head{
         position: fixed;
-        /* overflow: scroll; */
+        overflow: hidden;
         top: 0px;
         left: 0px;
         width: 100%;
@@ -1521,7 +1521,7 @@ position: absolute;
         background: #FFFFFF 0% 0% no-repeat padding-box;
         box-shadow: 0px 3px 6px #0000001A;
         opacity: 1;
-        z-index: 2;
+        z-index: 3;
     }
 
 .Mobilehead1{

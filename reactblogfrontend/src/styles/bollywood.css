@@ -15,6 +15,10 @@ height: 150px;
 position: absolute;
 }
 
+.B-menu-icon{
+    display: none;
+}
+
 .B-Heading-1{
     top: 65px;
     left: 43vw;
@@ -55,7 +59,7 @@ position: absolute;
 }
 
 .B-Home{
-    top: 0px;
+    top: 165px;
     left: 350px;
     width: 56px;
     height: 22px;
@@ -66,11 +70,11 @@ position: absolute;
     letter-spacing: 0px;
     color: #000000;
     opacity: 1;
-    position: relative;
+    position: absolute;
 }
 
 .B-Bollywood{
-    top: -20px;
+    top: 165px;
     left: 600px;
     width: 56px;
     height: 22px;
@@ -81,11 +85,11 @@ position: absolute;
     letter-spacing: 0px;
     color: #000000;
     opacity: 1;
-    position: relative;
+    position: absolute;
 }
 
 .B-Technology{
-    top: -43px;
+    top: 165px;
     left: 850px;
     width: 56px;
     height: 22px;
@@ -96,12 +100,12 @@ position: absolute;
     letter-spacing: 0px;
     color: #000000;
     opacity: 1;
-    position: relative;
+    position: absolute;
 }
 
 .B-Hollywood{
     
-        top: -65px;
+        top: 165px;
         left:1100px;
         width: 56px;
         height: 22px;
@@ -112,11 +116,11 @@ position: absolute;
         letter-spacing: 0px;
         color: #000000;
         opacity: 1;
-        position: relative;
+        position: absolute;
 }
 
 .B-Fitness{
-        top: -87px;
+        top: 165px;
         left:1350px;
         width: 56px;
         height: 22px;
@@ -127,11 +131,11 @@ position: absolute;
         letter-spacing: 0px;
         color: #000000;
         opacity: 1;
-        position: relative;
+        position: absolute;
 }
 
 .B-Food{
-        top: -109px;
+        top: 165px;
         left:1600px;
         width: 56px;
         height: 22px;
@@ -142,20 +146,21 @@ position: absolute;
         letter-spacing: 0px;
         color: #000000;
         opacity: 1;
-        position: relative;
+        position: absolute;
 }
 
 .B-Line{
-top: -85px;
+top: 200px;
 left: 290px;
 width: 1440px;
 height: 3px;
 background: #F0F0F0 0% 0% no-repeat padding-box;
 opacity: 1;
-position: relative;
+position: absolute;
 }
 
 .Bollywood-Section{
+    top:80px;
     position: relative;
     height: 1920px;
     z-index: 1;
@@ -1266,12 +1271,13 @@ position: absolute;
         width: 393px;
     }
     .Bollywood-Section{
-      
+        top: 55px;
         z-index: 1;
         overflow-x: hidden;
        overflow-y: hidden; 
        height: 2100px;
        width: 400px;
+       position: absolute;
     }
 
     .Menu-Bar{
@@ -1677,4 +1683,51 @@ position: absolute;
         display: none;
     }
 
+    .B-Home{
+        display: none;
+    }
+
+    .B-Line{
+        display: none;
+    }
+    
+    .B-menu-icon{
+        display: block;
+        top: 15px;
+        left: 323px;
+        width: 25px;
+        height: 16px;
+        opacity: 1;
+        position: absolute;
+    }
+
+    .B-bar-1{
+        top: 0px;
+        left: 0px;
+        width: 25px;
+        height: 0px;
+        border: 2px solid #A3A1A1;
+        opacity: 1;
+        position: relative; 
+    }
+
+    .B-bar-2{
+        top: 5px;
+        left: 0px;
+        width: 25px;
+        height: 0px;
+        border: 2px solid #A3A1A1;
+        opacity: 1;
+        position: relative;
+    }
+
+    .B-bar-3{
+        top: 10px;
+        left: 0px;
+        width: 25px;
+        height: 0px;
+        border: 2px solid #A3A1A1;
+        opacity: 1;
+        position: relative;
+    }
 }
