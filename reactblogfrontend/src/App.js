@@ -4,6 +4,7 @@ import Home from "./components/home";
 import Article from "./components/article";
 import Bollywood from "./components/bollywood";
 
+
 function App() {
   return (
     <>

@@ -12,8 +12,11 @@ class Bollywood extends Component{
             <div className='Bollywood-Page'>
 
             <div className='B-Header-Section'>
+           
             <div className='B-Heading-1'>The</div>
             <div className='B-Heading-2'>Siren</div>
+          
+
             <div class="B-menu-icon">
         <div class="B-bar-1"></div>
         <div class="B-bar-2"></div>
@@ -21,7 +24,7 @@ class Bollywood extends Component{
             </div>
             </div>
 
-            <div className='B-Body-Section'>
+            {/* <div className='B-Body-Section'> */}
             
             <Link to ="/article" style={{ textDecoration: 'none' }}><div className='B-Home'><b>Home</b></div></Link>
             <Link to ={"/bollywood"} style={{ textDecoration: 'none' }} onClick={()=>{
@@ -41,7 +44,7 @@ class Bollywood extends Component{
     }}><div className='B-Food'>Food</div></Link>
             <div className='B-Line'></div>
             
-           
+    <div className='B-Body-Section'>
             <div className='Bollywood-Section'>
                 <div className='Bollywood-Header'>Bollywood</div>
                 <div className='Bollywood-Header-Line'></div>

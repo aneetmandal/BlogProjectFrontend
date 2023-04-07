@@ -159,15 +159,24 @@ opacity: 1;
 position: absolute;
 }
 
-.Bollywood-Section{
-    top:80px;
+/* .B-Body-Section{
+    top:200px;
     position: relative;
     height: 1920px;
+    width: 1250px;
+    z-index: 1;
+} */
+
+.Bollywood-Section{
+    top:200px;
+    position: relative;
+    height: 1920px;
+    width: 1250px;
     z-index: 1;
 }
 
 .Bollywood-Header{
-top: 200px;
+top: 80px; /*  -120   */
 left: 296px;
 width: 213px;
 height: 49px;
@@ -182,7 +191,7 @@ position: relative;
 }
 
 .Bollywood-Header-Line{
-top: 210px;
+top: 90px;
 left: 296px;
 width: 90px;
 height: 3px;
@@ -192,7 +201,7 @@ position: relative;
 }
 
 .BW1-Pic{
-    top: 300px;
+    top: 180px;
     left: 290px;
     width: 308px;
     height: 184px;
@@ -202,7 +211,7 @@ position: relative;
         }
     
 .BW1-Head{
-    top: 300px;
+    top: 180px;
     left: 630px;
     width: 399px;
     height: 94px;
@@ -214,11 +223,11 @@ position: relative;
     color: #000000;
     opacity: 1;
     position: absolute;
-    z-index:1;
+   
         }
     
         .BW1-Text{
-    top: 400px;
+    top: 280px;
     left: 630px;
     width: 358px;
     height: 50px;
@@ -231,7 +240,7 @@ position: relative;
         }
     
         .BW1-Tag{
-            top: 470px;
+            top: 350px;
             left: 630px;
             width: 51px;
             height: 20px;
@@ -246,7 +255,7 @@ position: relative;
             }
             
         .BW1-Date{
-            top: 470px;
+            top: 350px;
             left: 680px;
             width: 158px;
             height: 20px;
@@ -260,7 +269,7 @@ position: relative;
             }
     
         .BW1-HR-Line{
-    top: 550px;
+    top: 430px;
     left: 290px;
     width: 946px;
     height: 3px;
@@ -269,7 +278,7 @@ position: relative;
     position: absolute;
             }
 
-.BW1-Pic{
+/* .BW1-Pic{
     top: 300px;
     left: 290px;
     width: 308px;
@@ -345,10 +354,10 @@ position: relative;
     background: #F0F0F0 0% 0% no-repeat padding-box;
     opacity: 1;
     position: absolute;
-            }
+            } */
 
             .BW2-Pic{
-                top: 590px;
+                top: 470px;
                 left: 290px;
                 width: 308px;
                 height: 184px;
@@ -358,7 +367,7 @@ position: relative;
                     }
                 
             .BW2-Head{
-                top: 590px;
+                top: 470px;
                 left: 630px;
                 width: 399px;
                 height: 94px;
@@ -374,7 +383,7 @@ position: relative;
                     }
                 
                     .BW2-Text{
-                top: 690px;
+                top: 570px;
                 left: 630px;
                 width: 358px;
                 height: 50px;
@@ -387,7 +396,7 @@ position: relative;
                     }
                 
                     .BW2-Tag{
-                        top: 760px;
+                        top: 640px;
                         left: 630px;
                         width: 51px;
                         height: 20px;
@@ -402,7 +411,7 @@ position: relative;
                         }
                         
                     .BW2-Date{
-                        top: 760px;
+                        top: 640px;
                         left: 680px;
                         width: 158px;
                         height: 20px;
@@ -416,7 +425,7 @@ position: relative;
                         }
                 
                     .BW2-HR-Line{
-                top: 810px;
+                top: 700px;
                 left: 290px;
                 width: 946px;
                 height: 3px;
@@ -426,7 +435,7 @@ position: relative;
                         }
 
                         .BW3-Pic{
-                            top: 850px;
+                            top: 740px;
                             left: 290px;
                             width: 308px;
                             height: 184px;
@@ -436,7 +445,7 @@ position: relative;
                                 }
                             
                         .BW3-Head{
-                            top: 850px;
+                            top: 740px;
                             left: 630px;
                             width: 399px;
                             height: 94px;
@@ -452,7 +461,7 @@ position: relative;
                                 }
                             
                                 .BW3-Text{
-                            top: 950px;
+                            top: 840px;
                             left: 630px;
                             width: 358px;
                             height: 50px;
@@ -465,7 +474,7 @@ position: relative;
                                 }
                             
                                 .BW3-Tag{
-                                    top: 1020px;
+                                    top: 910px;
                                     left: 630px;
                                     width: 51px;
                                     height: 20px;
@@ -480,7 +489,7 @@ position: relative;
                                     }
                                     
                                 .BW3-Date{
-                                    top: 1020px;
+                                    top: 910px;
                                     left: 680px;
                                     width: 158px;
                                     height: 20px;
@@ -494,7 +503,7 @@ position: relative;
                                     }
                             
                                 .BW3-HR-Line{
-                            top: 1070px;
+                            top: 970px;
                             left: 290px;
                             width: 946px;
                             height: 3px;
@@ -505,7 +514,7 @@ position: relative;
 
 
                                     .BW4-Pic{
-                                        top: 1110px;
+                                        top: 1010px;
                                         left: 290px;
                                         width: 308px;
                                         height: 184px;
@@ -515,7 +524,7 @@ position: relative;
                                             }
                                         
                                     .BW4-Head{
-                                        top: 1110px;
+                                        top: 1010px;
                                         left: 630px;
                                         width: 399px;
                                         height: 94px;
@@ -531,7 +540,7 @@ position: relative;
                                             }
                                         
                                             .BW4-Text{
-                                        top: 1210px;
+                                        top: 1110px;
                                         left: 630px;
                                         width: 358px;
                                         height: 50px;
@@ -544,7 +553,7 @@ position: relative;
                                             }
                                         
                                             .BW4-Tag{
-                                                top: 1280px;
+                                                top: 1180px;
                                                 left: 630px;
                                                 width: 51px;
                                                 height: 20px;
@@ -559,7 +568,7 @@ position: relative;
                                                 }
                                                 
                                             .BW4-Date{
-                                                top: 1280px;
+                                                top: 1180px;
                                                 left: 680px;
                                                 width: 158px;
                                                 height: 20px;
@@ -573,7 +582,7 @@ position: relative;
                                                 }
                                         
                                             .BW4-HR-Line{
-                                        top: 1330px;
+                                        top: 1240px;
                                         left: 290px;
                                         width: 946px;
                                         height: 3px;
@@ -583,7 +592,7 @@ position: relative;
                                                 }
 
                                                 .BW5-Pic{
-                                                    top: 1370px;
+                                                    top: 1280px;
                                                     left: 290px;
                                                     width: 308px;
                                                     height: 184px;
@@ -593,7 +602,7 @@ position: relative;
                                                         }
                                                     
                                                 .BW5-Head{
-                                                    top: 1370px;
+                                                    top: 1280px;
                                                     left: 630px;
                                                     width: 399px;
                                                     height: 94px;
@@ -609,7 +618,7 @@ position: relative;
                                                         }
                                                     
                                                         .BW5-Text{
-                                                    top: 1470px;
+                                                    top: 1380px;
                                                     left: 630px;
                                                     width: 358px;
                                                     height: 50px;
@@ -622,7 +631,7 @@ position: relative;
                                                         }
                                                     
                                                         .BW5-Tag{
-                                                            top: 1540px;
+                                                            top: 1450px;
                                                             left: 630px;
                                                             width: 51px;
                                                             height: 20px;
@@ -637,7 +646,7 @@ position: relative;
                                                             }
                                                             
                                                         .BW5-Date{
-                                                            top: 1540px;
+                                                            top: 1450px;
                                                             left: 680px;
                                                             width: 158px;
                                                             height: 20px;
@@ -651,7 +660,7 @@ position: relative;
                                                             }
                                                     
                                                         .BW5-HR-Line{
-                                                    top: 1590px;
+                                                    top: 1510px;
                                                     left: 290px;
                                                     width: 946px;
                                                     height: 3px;
@@ -661,7 +670,7 @@ position: relative;
                                                             }
                                     
 .BW6-Pic{
-top: 1630px;
+top: 1550px;
 left: 290px;
 width: 308px;
 height: 184px;
@@ -671,7 +680,7 @@ position: absolute;
 }
                                                                 
 .BW6-Head{
-top: 1630px;
+top: 1550px;
 left: 630px;
 width: 399px;
 height: 94px;
@@ -687,7 +696,7 @@ z-index:1;
 }
                                                                 
 .BW6-Text{
-top: 1730px;
+top: 1650px;
 left: 630px;
 width: 358px;
 height: 50px;
@@ -700,7 +709,7 @@ position: absolute;
 }
                                                                 
 .BW6-Tag{
-top: 1800px;
+top: 1720px;
 left: 630px;
 width: 51px;
 height: 20px;
@@ -715,7 +724,7 @@ position: absolute;
 }
                                                                         
 .BW6-Date{
- top: 1800px;
+ top: 1720px;
  left: 680px;
  width: 158px;
  height: 20px;
@@ -729,7 +738,7 @@ position: absolute;
  }
                                                                 
  .BW6-HR-Line{
-top: 1850px;
+top: 1780px;
 left: 290px;
 width: 946px;
 height: 3px;
@@ -739,7 +748,7 @@ position: absolute;
 }
 
 .BW7-Pic{
-    top: 1890px;
+    top: 1820px;
     left: 290px;
     width: 308px;
     height: 184px;
@@ -749,7 +758,7 @@ position: absolute;
     }
                                                                     
     .BW7-Head{
-    top: 1890px;
+    top: 1820px;
     left: 630px;
     width: 399px;
     height: 94px;
@@ -765,7 +774,7 @@ position: absolute;
     }
                                                                     
     .BW7-Text{
-    top: 1990px;
+    top: 1920px;
     left: 630px;
     width: 358px;
     height: 50px;
@@ -778,7 +787,7 @@ position: absolute;
     }
                                                                     
     .BW7-Tag{
-    top: 2060px;
+    top: 1990px;
     left: 630px;
     width: 51px;
     height: 20px;
@@ -793,7 +802,7 @@ position: absolute;
     }
                                                                             
     .BW7-Date{
-     top: 2060px;
+     top: 1990px;
      left: 680px;
      width: 158px;
      height: 20px;
@@ -807,7 +816,7 @@ position: absolute;
      }
                                                                     
      .B-Load-Arrow{
-        top: 2150px;
+        top: 2050px;
         left: 284px;
         width: 11px;
         height: 19px;
@@ -818,7 +827,7 @@ position: absolute;
         }
         
         .B-Load-More{
-            top: 2150px;
+            top: 2050px;
             left: 308px;
             width: 128px;
             height: 23px;
