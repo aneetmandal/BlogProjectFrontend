@@ -5,6 +5,7 @@ width: 1920px;
 height: 5073px;
 background: #FFFFFF 0% 0% no-repeat padding-box;
 opacity: 1;
+/* position: absolute; */
 }
 
 .Mobile-Space{
@@ -1496,19 +1497,25 @@ position: absolute;
 
     html, body {
         overflow-x: hidden;
+        
       }
       body {
-        position: relative
+        position: relative;
+        
       }
 
     .blog-structure{
         top: 0px;
         left: 0px;
-        width: 388px;
+        /* width: 388px; */
+        width: 98vw;
         height: 5800px;
         background: #FFFFFF 0% 0% no-repeat padding-box;
         opacity: 1;
         z-index: 1;
+       overflow-x: hidden;
+       overflow-y: hidden;
+       position: absolute;
         }
 
     .Mobile-Head{
@@ -1714,7 +1721,7 @@ position: absolute;
 
 .Img1{
 top: 300px;
-left: 4px;
+left: -4px;
 width: 389px;
 height: 355px;
 background: transparent url('../pictures/BWHill.jpg') 0% 0% no-repeat padding-box;
